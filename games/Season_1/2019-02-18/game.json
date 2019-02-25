@@ -1,0 +1,460 @@
+{
+    "id": "Season_1/2019-02-18",
+    "game_title": "Show #7931 - Monday, February 18, 2019",
+    "game_comments": "",
+    "game_complete": false,
+    "category_J_1": {
+        "category_name": "TELL ALLS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_2": {
+        "category_name": "LANGUAGES",
+        "category_comments": "",
+        "clue_count": 4
+    },
+    "category_J_3": {
+        "category_name": "SAVING THE ANIMALS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_4": {
+        "category_name": "THE BILL OF RIGHTS",
+        "category_comments": "(Alex: Ours.)",
+        "clue_count": 5
+    },
+    "category_J_5": {
+        "category_name": "VOCABULARY",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_6": {
+        "category_name": "DEPRESSION-ERA DINING",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_J_1_1": {
+        "id": "359913",
+        "clue_html": "Pattie Boyd wrote about her marriages to George Harrison &amp; this other rock icon in &quot;Wonderful Tonight&quot;",
+        "clue_text": "Pattie Boyd wrote about her marriages to George Harrison & this other rock icon in \"Wonderful Tonight\"",
+        "correct_response": "Eric Clapton"
+    },
+    "clue_J_2_1": {
+        "id": "359898",
+        "clue_html": "The west of this continent has about 50 million Hausa speakers",
+        "clue_text": "The west of this continent has about 50 million Hausa speakers",
+        "correct_response": "Africa"
+    },
+    "clue_J_3_1": {
+        "id": "359899",
+        "clue_html": "After this island was ravaged by Hurricane Maria, Lucky Dog Animal Rescue &amp; Southwest Air flew some pets to the USA",
+        "clue_text": "After this island was ravaged by Hurricane Maria, Lucky Dog Animal Rescue & Southwest Air flew some pets to the USA",
+        "correct_response": "Puerto Rico"
+    },
+    "clue_J_4_1": {
+        "id": "359916",
+        "clue_html": "Per this amendment, freedom of speech cannot be abridged",
+        "clue_text": "Per this amendment, freedom of speech cannot be abridged",
+        "correct_response": "the First Amendment"
+    },
+    "clue_J_5_1": {
+        "id": "359903",
+        "clue_html": "Run it up the pole &amp; salute! Vexillology is the study of these",
+        "clue_text": "Run it up the pole & salute! Vexillology is the study of these",
+        "correct_response": "a flag"
+    },
+    "clue_J_6_1": {
+        "id": "359908",
+        "clue_html": "Many would combine hot water &amp; this condiment to make tomato soup",
+        "clue_text": "Many would combine hot water & this condiment to make tomato soup",
+        "correct_response": "ketchup"
+    },
+    "clue_J_1_2": {
+        "id": "359914",
+        "clue_html": "This royal spoke &quot;In Her Own Words&quot; to Andrew Morton for a 1992 biography",
+        "clue_text": "This royal spoke \"In Her Own Words\" to Andrew Morton for a 1992 biography",
+        "correct_response": "Princess Diana"
+    },
+    "clue_J_2_2": {
+        "id": "359922",
+        "clue_html": "Also known as Northern Chinese, this is the official language of China",
+        "clue_text": "Also known as Northern Chinese, this is the official language of China",
+        "correct_response": "Mandarin"
+    },
+    "clue_J_3_2": {
+        "id": "359900",
+        "triple_stumper": true,
+        "clue_html": "For the <a href=\"http://www.j-archive.com/media/2019-02-18_J_13.jpg\" target=\"_blank\">littlest ones</a>, Best Friends Animal Society provides <a href=\"http://www.j-archive.com/media/2019-02-18_J_13a.jpg\" target=\"_blank\">this</a> type of care, defined as &quot;for newborns&quot;",
+        "clue_text": "For the littlest ones, Best Friends Animal Society provides this type of care, defined as \"for newborns\"",
+        "correct_response": "neonatal care",
+        "media": [
+            "http://localhost:3000/media/2019-02-18_J_13.jpg",
+            "http://localhost:3000/media/2019-02-18_J_13a.jpg"
+        ]
+    },
+    "clue_J_4_2": {
+        "id": "359917",
+        "clue_html": "The 2nd Amendment notes &quot;the right of the people to keep and bear arms&quot; &amp; the necessity of a &quot;well regulated&quot; this",
+        "clue_text": "The 2nd Amendment notes \"the right of the people to keep and bear arms\" & the necessity of a \"well regulated\" this",
+        "correct_response": "a militia"
+    },
+    "clue_J_5_2": {
+        "id": "359904",
+        "clue_html": "The forklike runcible this utensil has several prongs",
+        "clue_text": "The forklike runcible this utensil has several prongs",
+        "correct_response": "spoon"
+    },
+    "clue_J_6_2": {
+        "id": "359909",
+        "clue_html": "Emeril Lagasse has brought back the desperation pie, which uses the apple cider type of this instead of lemons",
+        "clue_text": "Emeril Lagasse has brought back the desperation pie, which uses the apple cider type of this instead of lemons",
+        "correct_response": "vinegar"
+    },
+    "clue_J_1_3": {
+        "id": "359919",
+        "clue_html": "He dishes about being a Brat Packer &amp; his time on &quot;The West Wing&quot; in &quot;Stories I Only Tell My Friends&quot;",
+        "clue_text": "He dishes about being a Brat Packer & his time on \"The West Wing\" in \"Stories I Only Tell My Friends\"",
+        "correct_response": "(Rob) Lowe"
+    },
+    "clue_J_2_3": {
+        "id": "359923",
+        "triple_stumper": true,
+        "clue_html": "Spoken in the country next door, it&apos;s basically Dutch with softer sounds",
+        "clue_text": "Spoken in the country next door, it's basically Dutch with softer sounds",
+        "correct_response": "Flemish"
+    },
+    "clue_J_3_3": {
+        "id": "359901",
+        "triple_stumper": true,
+        "clue_html": "Be Kind to Animals Week, celebrated in early May, was initiated in 1915 by the American this Organization (not the Society)",
+        "clue_text": "Be Kind to Animals Week, celebrated in early May, was initiated in 1915 by the American this Organization (not the Society)",
+        "correct_response": "the Humane Organization"
+    },
+    "clue_J_4_3": {
+        "id": "359918",
+        "clue_html": "The 4th Amendment is very &quot;P.C.&quot;, as this is needed before a warrant is issued or a place can be searched &amp; stuff seized",
+        "clue_text": "The 4th Amendment is very \"P.C.\", as this is needed before a warrant is issued or a place can be searched & stuff seized",
+        "correct_response": "probable cause"
+    },
+    "clue_J_5_3": {
+        "id": "359905",
+        "clue_html": "French for &quot;to awaken&quot; gives us the word for this bugle call that says it&apos;s time to wake up",
+        "clue_text": "French for \"to awaken\" gives us the word for this bugle call that says it's time to wake up",
+        "correct_response": "reveille"
+    },
+    "clue_J_6_3": {
+        "id": "359910",
+        "clue_html": "In 1937 Kraft changed everything by combining these 2 ingredients in a box",
+        "clue_text": "In 1937 Kraft changed everything by combining these 2 ingredients in a box",
+        "correct_response": "macaroni and cheese"
+    },
+    "clue_J_1_4": {
+        "id": "359920",
+        "clue_html": "&quot;Unhinged&quot; is her &quot;insider&apos;s Account of the Trump White House&quot;",
+        "clue_text": "\"Unhinged\" is her \"insider's Account of the Trump White House\"",
+        "correct_response": "Omarosa"
+    },
+    "clue_J_2_4": {
+        "id": "359924",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-18_J_29.jpg\" target=\"_blank\">Here</a>&apos;s one way to write &quot;thank you&quot; in this Asian language",
+        "clue_text": "Here's one way to write \"thank you\" in this Asian language",
+        "correct_response": "Korean",
+        "media": [
+            "http://localhost:3000/media/2019-02-18_J_29.jpg"
+        ]
+    },
+    "clue_J_3_4": {
+        "id": "359902",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-18_J_15.jpg\" target=\"_blank\">This</a> TV housewife rules in her devotion to animal welfare through her foundation &amp; rescue center",
+        "clue_text": "This TV housewife rules in her devotion to animal welfare through her foundation & rescue center",
+        "correct_response": "(Lisa) Vanderpump",
+        "media": [
+            "http://localhost:3000/media/2019-02-18_J_15.jpg"
+        ]
+    },
+    "clue_J_4_4": {
+        "id": "359925",
+        "daily_double": true,
+        "clue_html": "Key phrases in this amendment: &quot;Witness against himself&quot; &amp; &quot;twice put in jeopardy&quot;",
+        "clue_text": "Key phrases in this amendment: \"Witness against himself\" & \"twice put in jeopardy\"",
+        "correct_response": "the Fifth Amendment"
+    },
+    "clue_J_5_4": {
+        "id": "359906",
+        "clue_html": "This Latin phrase means a writer&apos;s or an artist&apos;s greatest work",
+        "clue_text": "This Latin phrase means a writer's or an artist's greatest work",
+        "correct_response": "a magnum opus"
+    },
+    "clue_J_6_4": {
+        "id": "359911",
+        "clue_html": "Even tobacco &amp; lint were ingredients in mulligan stew, eaten by this type of 4-letter itinerant",
+        "clue_text": "Even tobacco & lint were ingredients in mulligan stew, eaten by this type of 4-letter itinerant",
+        "correct_response": "a hobo"
+    },
+    "clue_J_1_5": {
+        "id": "359921",
+        "clue_html": "Christina Crawford revealed actress Joan Crawford to be an abusive adoptive mother in this memoir, later a film",
+        "clue_text": "Christina Crawford revealed actress Joan Crawford to be an abusive adoptive mother in this memoir, later a film",
+        "correct_response": "Mommie Dearest"
+    },
+    "clue_J_3_5": {
+        "id": "359915",
+        "clue_html": "In August 2018 more than 85,000 pets were adopted during the national Clear these places campaign",
+        "clue_text": "In August 2018 more than 85,000 pets were adopted during the national Clear these places campaign",
+        "correct_response": "shelters"
+    },
+    "clue_J_4_5": {
+        "id": "359926",
+        "triple_stumper": true,
+        "clue_html": "Think fast! Amendment 6 promises the accused both a public trial as well as one that is this adjective",
+        "clue_text": "Think fast! Amendment 6 promises the accused both a public trial as well as one that is this adjective",
+        "correct_response": "speedy"
+    },
+    "clue_J_5_5": {
+        "id": "359907",
+        "clue_html": "Add a &quot;Y&quot; to the name of a cotton fabric to get this word meaning cheap or gaudy",
+        "clue_text": "Add a \"Y\" to the name of a cotton fabric to get this word meaning cheap or gaudy",
+        "correct_response": "chintzy"
+    },
+    "clue_J_6_5": {
+        "id": "359912",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-18_J_11.jpg\" target=\"_blank\">These</a> weeds went into salads for many people during the Depression--they grow everywhere",
+        "clue_text": "These weeds went into salads for many people during the Depression--they grow everywhere",
+        "correct_response": "dandelions",
+        "media": [
+            "http://localhost:3000/media/2019-02-18_J_11.jpg"
+        ]
+    },
+    "category_DJ_1": {
+        "category_name": "ALL TELS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_2": {
+        "category_name": "TEXTBOOKS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_3": {
+        "category_name": "STILL I RISE",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_4": {
+        "category_name": "NAME THE VENUE",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_5": {
+        "category_name": "ANTEBELLUM",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_6": {
+        "category_name": "USE YOUR B,R,A,I,N POWER",
+        "category_comments": "(Alex: Each correct response will contain all of those letters in the word \"brain\".)",
+        "clue_count": 5
+    },
+    "clue_DJ_1_1": {
+        "id": "359927",
+        "clue_html": "Tel means &quot;hill&quot; &amp; the name of this Israeli city means &quot;hill of spring&quot;",
+        "clue_text": "Tel means \"hill\" & the name of this Israeli city means \"hill of spring\"",
+        "correct_response": "Tel Aviv"
+    },
+    "clue_DJ_2_1": {
+        "id": "359932",
+        "clue_html": "&quot;Natural Language Processing&quot; is a section in a leading textbook on this, A.I. for short",
+        "clue_text": "\"Natural Language Processing\" is a section in a leading textbook on this, A.I. for short",
+        "correct_response": "artifical intelligence"
+    },
+    "clue_DJ_3_1": {
+        "id": "359937",
+        "clue_html": "Bodybuilders can only dream of pecs, short for these muscles, as developed as the ones that help birds take off",
+        "clue_text": "Bodybuilders can only dream of pecs, short for these muscles, as developed as the ones that help birds take off",
+        "correct_response": "pectorals"
+    },
+    "clue_DJ_4_1": {
+        "id": "359942",
+        "clue_html": "A Judy Garland show that wins 4 Grammys--this classy NYC hall, 1961",
+        "clue_text": "A Judy Garland show that wins 4 Grammys--this classy NYC hall, 1961",
+        "correct_response": "Carnegie Hall"
+    },
+    "clue_DJ_5_1": {
+        "id": "359947",
+        "clue_html": "The Battle of Dien Bien Phu basically ended the first Indochina War but precipitated this other conflict",
+        "clue_text": "The Battle of Dien Bien Phu basically ended the first Indochina War but precipitated this other conflict",
+        "correct_response": "the Vietnam War"
+    },
+    "clue_DJ_6_1": {
+        "id": "359952",
+        "clue_html": "This glorious sight is formed by the refractive dispersion of light through falling water droplets",
+        "clue_text": "This glorious sight is formed by the refractive dispersion of light through falling water droplets",
+        "correct_response": "a rainbow"
+    },
+    "clue_DJ_1_2": {
+        "id": "359928",
+        "clue_html": "In 1942 the Allies held the high ground at Tel El-Eisa near El Alamein &amp; kept German forces from this canal",
+        "clue_text": "In 1942 the Allies held the high ground at Tel El-Eisa near El Alamein & kept German forces from this canal",
+        "correct_response": "the Suez Canal"
+    },
+    "clue_DJ_2_2": {
+        "id": "359933",
+        "triple_stumper": true,
+        "clue_html": "This anthology of English lit is now in its 10th edition, supervised by Shakespeare scholar Stephen Greenblatt",
+        "clue_text": "This anthology of English lit is now in its 10th edition, supervised by Shakespeare scholar Stephen Greenblatt",
+        "correct_response": "the Norton anthology"
+    },
+    "clue_DJ_3_2": {
+        "id": "359938",
+        "clue_html": "It&apos;s the substance in wheat that makes dough elastic &amp; enables it to rise by trapping gas",
+        "clue_text": "It's the substance in wheat that makes dough elastic & enables it to rise by trapping gas",
+        "correct_response": "gluten"
+    },
+    "clue_DJ_4_2": {
+        "id": "359943",
+        "clue_html": "The &quot;Aquaman&quot; premier in Hollywood, Dec. 12, 2018",
+        "clue_text": "The \"Aquaman\" premier in Hollywood, Dec. 12, 2018",
+        "correct_response": "Grauman\\'s Chinese Theatre"
+    },
+    "clue_DJ_5_2": {
+        "id": "359948",
+        "clue_html": "Leading up to WWII, Britain issued its citizens 40 million of these, to protect against a weapon cruelly used on WWI battlefields",
+        "clue_text": "Leading up to WWII, Britain issued its citizens 40 million of these, to protect against a weapon cruelly used on WWI battlefields",
+        "correct_response": "gas masks"
+    },
+    "clue_DJ_6_2": {
+        "id": "359953",
+        "clue_html": "A substance like oil or grease used to reduce friction",
+        "clue_text": "A substance like oil or grease used to reduce friction",
+        "correct_response": "a lubricant"
+    },
+    "clue_DJ_1_3": {
+        "id": "359929",
+        "clue_html": "Many Christians of Tel Keppe, near Mosul in this country, were forced to leave &amp; emigrated to Detroit",
+        "clue_text": "Many Christians of Tel Keppe, near Mosul in this country, were forced to leave & emigrated to Detroit",
+        "correct_response": "Iraq"
+    },
+    "clue_DJ_2_3": {
+        "id": "359934",
+        "daily_double": true,
+        "clue_html": "A classic of foreign policy, &quot;Diplomacy&quot; by this former Secretary of State includes the story of the reopening of China",
+        "clue_text": "A classic of foreign policy, \"Diplomacy\" by this former Secretary of State includes the story of the reopening of China",
+        "correct_response": "Henry Kissinger"
+    },
+    "clue_DJ_3_3": {
+        "id": "359939",
+        "clue_html": "According to Ben Franklin, &quot;Early to bed &amp; early to rise, makes a man&quot; these 3 positive things",
+        "clue_text": "According to Ben Franklin, \"Early to bed & early to rise, makes a man\" these 3 positive things",
+        "correct_response": "healthy, wealthy and wise"
+    },
+    "clue_DJ_4_3": {
+        "id": "359944",
+        "clue_html": "Johnny Cash&apos;s musical memorial service--this Nashville auditorium &amp; former home of the Grand Ole Opry",
+        "clue_text": "Johnny Cash's musical memorial service--this Nashville auditorium & former home of the Grand Ole Opry",
+        "correct_response": "the Ryman"
+    },
+    "clue_DJ_5_3": {
+        "id": "359949",
+        "triple_stumper": true,
+        "clue_html": "Riots in Havana in 1898 led to this doomed U.S. ship being sent there",
+        "clue_text": "Riots in Havana in 1898 led to this doomed U.S. ship being sent there",
+        "correct_response": "the Maine"
+    },
+    "clue_DJ_6_3": {
+        "id": "359954",
+        "clue_html": "It&apos;s the vocal range between tenor &amp; bass",
+        "clue_text": "It's the vocal range between tenor & bass",
+        "correct_response": "baritone"
+    },
+    "clue_DJ_1_4": {
+        "id": "359930",
+        "triple_stumper": true,
+        "clue_html": "Tel Al-Hawa is a neighborhood in this area on the Mediterranean controlled by Hamas",
+        "clue_text": "Tel Al-Hawa is a neighborhood in this area on the Mediterranean controlled by Hamas",
+        "correct_response": "the Gaza Strip"
+    },
+    "clue_DJ_2_4": {
+        "id": "359935",
+        "clue_html": "In 1890 this brother of novelist Henry published his classic textbook &quot;The Principles of Psychology&quot;",
+        "clue_text": "In 1890 this brother of novelist Henry published his classic textbook \"The Principles of Psychology\"",
+        "correct_response": "William James"
+    },
+    "clue_DJ_3_4": {
+        "id": "359940",
+        "triple_stumper": true,
+        "clue_html": "At the end of the Stravinsky ballet &quot;Orpheus&quot;, this musical instrument rises from the hero&apos;s grave up to the heavens",
+        "clue_text": "At the end of the Stravinsky ballet \"Orpheus\", this musical instrument rises from the hero's grave up to the heavens",
+        "correct_response": "a lyre"
+    },
+    "clue_DJ_4_4": {
+        "id": "359945",
+        "triple_stumper": true,
+        "clue_html": "Frank Sinatra&apos;s Las Vegas debut--this &quot;Inn&quot;, 1951",
+        "clue_text": "Frank Sinatra's Las Vegas debut--this \"Inn\", 1951",
+        "correct_response": "the Desert Inn"
+    },
+    "clue_DJ_5_4": {
+        "id": "359950",
+        "triple_stumper": true,
+        "clue_html": "When Rome booted a Carthaginian garrison on Sicily in the 200s B.C., the first of these conflicts was soon afoot",
+        "clue_text": "When Rome booted a Carthaginian garrison on Sicily in the 200s B.C., the first of these conflicts was soon afoot",
+        "correct_response": "the Punic Wars"
+    },
+    "clue_DJ_6_4": {
+        "id": "359955",
+        "clue_html": "Important for energy production in the body, it&apos;s also called Vitamin B2",
+        "clue_text": "Important for energy production in the body, it's also called Vitamin B2",
+        "correct_response": "riboflavin"
+    },
+    "clue_DJ_1_5": {
+        "id": "359931",
+        "triple_stumper": true,
+        "clue_html": "The refugee camp of Tel El-Zaatar was the scene of a 1976 massacre early in this Mideast country&apos;s civil war",
+        "clue_text": "The refugee camp of Tel El-Zaatar was the scene of a 1976 massacre early in this Mideast country's civil war",
+        "correct_response": "Lebanon"
+    },
+    "clue_DJ_2_5": {
+        "id": "359936",
+        "clue_html": "N. Gregory Mankiw has penned texts on these &quot;large&quot; &amp; &quot;small&quot; fields, relating to how governments spend &amp; how you do",
+        "clue_text": "N. Gregory Mankiw has penned texts on these \"large\" & \"small\" fields, relating to how governments spend & how you do",
+        "correct_response": "macroeconomics and microeconomics"
+    },
+    "clue_DJ_3_5": {
+        "id": "359941",
+        "triple_stumper": true,
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2019-02-18_DJ_10.jpg\" target=\"_blank\">Sarah of the Clue Crew presents from the American Helicopter Museum in West Chester, Pennsylvania.</a>) The American Helicopter Museum is a treasure house of these craft, another name for helicopters from the propeller-like part that turns to give them lift",
+        "clue_text": "(Sarah of the Clue Crew presents from the American Helicopter Museum in West Chester, Pennsylvania.) The American Helicopter Museum is a treasure house of these craft, another name for helicopters from the propeller-like part that turns to give them lift",
+        "correct_response": "rotorcraft",
+        "media": [
+            "http://localhost:3000/media/2019-02-18_DJ_10.jpg"
+        ]
+    },
+    "clue_DJ_4_5": {
+        "id": "359946",
+        "clue_html": "The world premiere of the drama &quot;The Widow Lincoln&quot;--this D.C. venue, January 2015",
+        "clue_text": "The world premiere of the drama \"The Widow Lincoln\"--this D.C. venue, January 2015",
+        "correct_response": "Ford\\'s Theater"
+    },
+    "clue_DJ_5_5": {
+        "id": "359951",
+        "daily_double": true,
+        "clue_html": "The 1454 Battle of Stamford Bridge between Nevilles &amp; Percys presaged this larger war of 1455 featuring other families",
+        "clue_text": "The 1454 Battle of Stamford Bridge between Nevilles & Percys presaged this larger war of 1455 featuring other families",
+        "correct_response": "the Wars of the Roses"
+    },
+    "clue_DJ_6_5": {
+        "id": "359956",
+        "clue_html": "If you&apos;re &quot;under&quot; this in a hospital, you&apos;re technically an outpatient though you may stay for days",
+        "clue_text": "If you're \"under\" this in a hospital, you're technically an outpatient though you may stay for days",
+        "correct_response": "observation"
+    },
+    "category_FJ_1": {
+        "category_name": "BRITISH AUTHORS",
+        "category_comments": ""
+    },
+    "clue_FJ": {
+        "clue_html": "Born in 1866, he has been called &quot;the Shakespeare of science fiction&quot;",
+        "clue_text": "Born in 1866, he has been called \"the Shakespeare of science fiction\"",
+        "correct_response": "H.G. Wells"
+    }
+}

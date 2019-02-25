@@ -1,0 +1,456 @@
+{
+    "id": "Season_1/2019-02-15",
+    "game_title": "Show #7930 - Friday, February 15, 2019",
+    "game_comments": "",
+    "game_complete": false,
+    "category_J_1": {
+        "category_name": "THE WORLD ALMANAC 2019",
+        "category_comments": "",
+        "media": [
+            "http://localhost:3000/media/2019-02-15_J_Cat1.jpg"
+        ],
+        "clue_count": 5
+    },
+    "category_J_2": {
+        "category_name": "WORD PUZZLES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_3": {
+        "category_name": "A MATTER OF WIFE & DEATH",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_4": {
+        "category_name": "BODY PARTS IN LATIN",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_5": {
+        "category_name": "IT WAS SO FUNNY",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_6": {
+        "category_name": "YOU HAD TO BE THERE",
+        "category_comments": "",
+        "clue_count": 4
+    },
+    "clue_J_1_1": {
+        "id": "359735",
+        "clue_html": "A surprising fact from the almanac: <br>Only 5.5% of high schoolers drove after drinking but 40% had done this while driving",
+        "clue_text": "A surprising fact from the almanac: Only 5.5% of high schoolers drove after drinking but 40% had done this while driving",
+        "correct_response": "text"
+    },
+    "clue_J_2_1": {
+        "id": "359740",
+        "clue_html": "Kind of <a href=\"http://www.j-archive.com/media/2019-02-15_J_03.jpg\" target=\"_blank\">ticket</a> you get if all seats are sold out",
+        "clue_text": "Kind of ticket you get if all seats are sold out",
+        "correct_response": "standing room only",
+        "media": [
+            "http://localhost:3000/media/2019-02-15_J_03.jpg"
+        ]
+    },
+    "clue_J_3_1": {
+        "id": "359745",
+        "clue_html": "She died in England in 1617 while preparing to sail back to Virginia with her husband John Rolfe",
+        "clue_text": "She died in England in 1617 while preparing to sail back to Virginia with her husband John Rolfe",
+        "correct_response": "Pocahontas"
+    },
+    "clue_J_4_1": {
+        "id": "359748",
+        "clue_html": "Cerebrum",
+        "clue_text": "Cerebrum",
+        "correct_response": "the brain"
+    },
+    "clue_J_5_1": {
+        "id": "359755",
+        "clue_html": "From this NBC sitcom: &quot;How&apos;s life treating you, Norm?&quot; &quot;Like he caught me in bed with his wife&quot;",
+        "clue_text": "From this NBC sitcom: \"How's life treating you, Norm?\" \"Like he caught me in bed with his wife\"",
+        "correct_response": "Cheers"
+    },
+    "clue_J_6_1": {
+        "id": "359760",
+        "clue_html": "This summons for a defendant to appear in court comes from Latin for &quot;under penalty&quot;",
+        "clue_text": "This summons for a defendant to appear in court comes from Latin for \"under penalty\"",
+        "correct_response": "subpoena"
+    },
+    "clue_J_1_2": {
+        "id": "359736",
+        "clue_html": "In the offbeat news section: <br>A French theme park has trained 6 of these black birds to pick up bits of trash to earn treats",
+        "clue_text": "In the offbeat news section: A French theme park has trained 6 of these black birds to pick up bits of trash to earn treats",
+        "correct_response": "crows"
+    },
+    "clue_J_2_2": {
+        "id": "359741",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-15_J_09.jpg\" target=\"_blank\">It</a> has a median in the middle",
+        "clue_text": "It has a median in the middle",
+        "correct_response": "a divided highway",
+        "media": [
+            "http://localhost:3000/media/2019-02-15_J_09.jpg"
+        ]
+    },
+    "clue_J_3_2": {
+        "id": "359746",
+        "triple_stumper": true,
+        "clue_html": "In the Old Testament this favorite wife of Jacob died after giving birth to Benjamin",
+        "clue_text": "In the Old Testament this favorite wife of Jacob died after giving birth to Benjamin",
+        "correct_response": "Rachel"
+    },
+    "clue_J_4_2": {
+        "id": "359749",
+        "clue_html": "Oculus",
+        "clue_text": "Oculus",
+        "correct_response": "the eye"
+    },
+    "clue_J_5_2": {
+        "id": "359756",
+        "clue_html": "In this action pic, M&apos;Baku warns, &quot;One more word, &amp; I will feed you to my children...I&apos;m kidding. We are vegetarians&quot;",
+        "clue_text": "In this action pic, M'Baku warns, \"One more word, & I will feed you to my children...I'm kidding. We are vegetarians\"",
+        "correct_response": "Black Panther"
+    },
+    "clue_J_6_2": {
+        "id": "359761",
+        "clue_html": "The most important difference between a funeral service &amp; a memorial service is the presence of this",
+        "clue_text": "The most important difference between a funeral service & a memorial service is the presence of this",
+        "correct_response": "a dead body"
+    },
+    "clue_J_1_3": {
+        "id": "359737",
+        "clue_html": "Top 10 news topics of 2018 include this movement, known by a social media hashtag, leading to legal action for sexual assault",
+        "clue_text": "Top 10 news topics of 2018 include this movement, known by a social media hashtag, leading to legal action for sexual assault",
+        "correct_response": "#MeToo"
+    },
+    "clue_J_2_3": {
+        "id": "359742",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-15_J_10.jpg\" target=\"_blank\">It</a>&apos;s a way some teachers rate their students",
+        "clue_text": "It's a way some teachers rate their students",
+        "correct_response": "grading on a curve",
+        "media": [
+            "http://localhost:3000/media/2019-02-15_J_10.jpg"
+        ]
+    },
+    "clue_J_3_3": {
+        "id": "359747",
+        "clue_html": "With her family by her side, this wife of a Beatle lost her battle with cancer in 1998",
+        "clue_text": "With her family by her side, this wife of a Beatle lost her battle with cancer in 1998",
+        "correct_response": "Linda McCartney"
+    },
+    "clue_J_4_3": {
+        "id": "359752",
+        "daily_double": true,
+        "clue_html": "Gingiva",
+        "clue_text": "Gingiva",
+        "correct_response": "gums"
+    },
+    "clue_J_5_3": {
+        "id": "359757",
+        "clue_html": "In this film, Amanda Seyfried, one of the Plastics, says to Lindsay Lohan, &quot;I&apos;m kind of psychic...it&apos;s like I have ESPN or something&quot;",
+        "clue_text": "In this film, Amanda Seyfried, one of the Plastics, says to Lindsay Lohan, \"I'm kind of psychic...it's like I have ESPN or something\"",
+        "correct_response": "Mean Girls"
+    },
+    "clue_J_6_3": {
+        "id": "359762",
+        "clue_html": "In Michigan, convicts released under this system cannot leave the state without a travel permit",
+        "clue_text": "In Michigan, convicts released under this system cannot leave the state without a travel permit",
+        "correct_response": "parole"
+    },
+    "clue_J_1_4": {
+        "id": "359738",
+        "clue_html": "The World Almanac&apos;s editors picked items for a figurative 2018 time capsule, including this furry orange mascot of the Philly Flyers",
+        "clue_text": "The World Almanac's editors picked items for a figurative 2018 time capsule, including this furry orange mascot of the Philly Flyers",
+        "correct_response": "Gritty"
+    },
+    "clue_J_2_4": {
+        "id": "359743",
+        "clue_html": "Said of some <a href=\"http://www.j-archive.com/media/2019-02-15_J_11.jpg\" target=\"_blank\">economically vital</a> businesses",
+        "clue_text": "Said of some economically vital businesses",
+        "correct_response": "too big to fail",
+        "media": [
+            "http://localhost:3000/media/2019-02-15_J_11.jpg"
+        ]
+    },
+    "clue_J_3_4": {
+        "id": "359750",
+        "clue_html": "His first wife Maria bore him 7 children, including Carl Philipp Emanuel, before she died in 1720",
+        "clue_text": "His first wife Maria bore him 7 children, including Carl Philipp Emanuel, before she died in 1720",
+        "correct_response": "J.S. (or Johann Sebastian) Bach"
+    },
+    "clue_J_4_4": {
+        "id": "359753",
+        "clue_html": "Pes",
+        "clue_text": "Pes",
+        "correct_response": "feet"
+    },
+    "clue_J_5_4": {
+        "id": "359758",
+        "clue_html": "On this HBO show Jemaine &amp; Bret sing, &quot;I can tell that you are the most beautiful girl in the room (in the whole wide room)&quot;",
+        "clue_text": "On this HBO show Jemaine & Bret sing, \"I can tell that you are the most beautiful girl in the room (in the whole wide room)\"",
+        "correct_response": "Flight of the Conchords"
+    },
+    "clue_J_6_4": {
+        "id": "359763",
+        "clue_html": "In 1973, the last year this happened, 646 men were inducted to serve",
+        "clue_text": "In 1973, the last year this happened, 646 men were inducted to serve",
+        "correct_response": "a draft"
+    },
+    "clue_J_1_5": {
+        "id": "359739",
+        "triple_stumper": true,
+        "clue_html": "On Nov. 11 expect a rare one of these events of Mercury--it&apos;ll pass between Earth &amp; the Sun &amp; be visible in silhouette",
+        "clue_text": "On Nov. 11 expect a rare one of these events of Mercury--it'll pass between Earth & the Sun & be visible in silhouette",
+        "correct_response": "a transit"
+    },
+    "clue_J_2_5": {
+        "id": "359744",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-15_J_12.jpg\" target=\"_blank\">Preoccupied while pondering</a>",
+        "clue_text": "Preoccupied while pondering",
+        "correct_response": "lost in thought",
+        "media": [
+            "http://localhost:3000/media/2019-02-15_J_12.jpg"
+        ]
+    },
+    "clue_J_3_5": {
+        "id": "359751",
+        "clue_html": "This Irish wit &amp; playwright&apos;s estranged wife Constance died in 1898 shortly after his release from prison",
+        "clue_text": "This Irish wit & playwright's estranged wife Constance died in 1898 shortly after his release from prison",
+        "correct_response": "(Oscar) Wilde"
+    },
+    "clue_J_4_5": {
+        "id": "359754",
+        "triple_stumper": true,
+        "clue_html": "Genu (as in genuflect)",
+        "clue_text": "Genu (as in genuflect)",
+        "correct_response": "knee"
+    },
+    "clue_J_5_5": {
+        "id": "359759",
+        "clue_html": "In &quot;The First Wives Club&quot;, &quot;There are only 3 ages for women in Hollywood--babe, district attorney &amp; &apos;Driving&apos;&quot; her",
+        "clue_text": "In \"The First Wives Club\", \"There are only 3 ages for women in Hollywood--babe, district attorney & 'Driving'\" her",
+        "correct_response": "Miss Daisy"
+    },
+    "category_DJ_1": {
+        "category_name": "PRESIDENTS' DAYS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_2": {
+        "category_name": "HOMOPHONIC PAIRS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_3": {
+        "category_name": "FRANZ KAFKA",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_4": {
+        "category_name": "THAT SONG SOUNDS FAMILIAR",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_5": {
+        "category_name": "LIQUIDS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_6": {
+        "category_name": "WHAT \"A\" CITY",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_DJ_1_1": {
+        "id": "359764",
+        "clue_html": "Starting in 1973, Texas recognized August 27 as this man&apos;s birthday statewide",
+        "clue_text": "Starting in 1973, Texas recognized August 27 as this man's birthday statewide",
+        "correct_response": "Lyndon Johnson"
+    },
+    "clue_DJ_2_1": {
+        "id": "359769",
+        "triple_stumper": true,
+        "clue_html": "The mailed perfume",
+        "clue_text": "The mailed perfume",
+        "correct_response": "sent scent"
+    },
+    "clue_DJ_3_1": {
+        "id": "359774",
+        "clue_html": "Kafka was born in 1883 in this city, then still the capital of the country of Bohemia",
+        "clue_text": "Kafka was born in 1883 in this city, then still the capital of the country of Bohemia",
+        "correct_response": "Prague"
+    },
+    "clue_DJ_4_1": {
+        "id": "359779",
+        "clue_html": "&quot;Right Round&quot; by this &quot;stately&quot; rapper samples from &quot;You Spin Me Round&quot; by Dead or Alive",
+        "clue_text": "\"Right Round\" by this \"stately\" rapper samples from \"You Spin Me Round\" by Dead or Alive",
+        "correct_response": "Flo Rida"
+    },
+    "clue_DJ_5_1": {
+        "id": "359784",
+        "clue_html": "The main lacrimal glands provide these when stimulated by bright light or a sad movie",
+        "clue_text": "The main lacrimal glands provide these when stimulated by bright light or a sad movie",
+        "correct_response": "tears"
+    },
+    "clue_DJ_6_1": {
+        "id": "359789",
+        "clue_html": "&quot;The Happiest Place on Earth&quot; is in this So. Cal city, unless you&apos;re in traffic on the 5 freeway at about 5:45 PM on a Tuesday",
+        "clue_text": "\"The Happiest Place on Earth\" is in this So. Cal city, unless you're in traffic on the 5 freeway at about 5:45 PM on a Tuesday",
+        "correct_response": "Anaheim"
+    },
+    "clue_DJ_1_2": {
+        "id": "359765",
+        "clue_html": "Presidents&apos; Day in Alabama honors Washington &amp; this next president from the South",
+        "clue_text": "Presidents' Day in Alabama honors Washington & this next president from the South",
+        "correct_response": "Jefferson"
+    },
+    "clue_DJ_2_2": {
+        "id": "359770",
+        "clue_html": "An unclothed Kodiak",
+        "clue_text": "An unclothed Kodiak",
+        "correct_response": "a bare bear"
+    },
+    "clue_DJ_3_2": {
+        "id": "359775",
+        "clue_html": "This story begins, &quot;As Gregor Samsa awoke one morning...he found himself transformed in his bed into a gigantic insect&quot;",
+        "clue_text": "This story begins, \"As Gregor Samsa awoke one morning...he found himself transformed in his bed into a gigantic insect\"",
+        "correct_response": "Metamorphosis"
+    },
+    "clue_DJ_4_2": {
+        "id": "359780",
+        "clue_html": "&quot;Gangsta&apos;s Paradise&quot; uses Psalm 23:4 &amp; &quot;Pastime Paradise&quot; from this man&apos;s &quot;Songs in the Key of Life&quot;",
+        "clue_text": "\"Gangsta's Paradise\" uses Psalm 23:4 & \"Pastime Paradise\" from this man's \"Songs in the Key of Life\"",
+        "correct_response": "Stevie Wonder"
+    },
+    "clue_DJ_5_2": {
+        "id": "359785",
+        "clue_html": "Rain-X Bug Remover is a brand of this fluid providing clearer vision while driving",
+        "clue_text": "Rain-X Bug Remover is a brand of this fluid providing clearer vision while driving",
+        "correct_response": "wiper fluid"
+    },
+    "clue_DJ_6_2": {
+        "id": "359790",
+        "clue_html": "Sounding like a home for seabirds, it&apos;s New Zealand&apos;s largest city",
+        "clue_text": "Sounding like a home for seabirds, it's New Zealand's largest city",
+        "correct_response": "Auckland"
+    },
+    "clue_DJ_1_3": {
+        "id": "359766",
+        "clue_html": "This city celebrates McKinley Day in January &amp; Pro Football Hall of Fame enshrinement ceremony in August",
+        "clue_text": "This city celebrates McKinley Day in January & Pro Football Hall of Fame enshrinement ceremony in August",
+        "correct_response": "Canton, Ohio"
+    },
+    "clue_DJ_2_3": {
+        "id": "359771",
+        "clue_html": "Hidden fabulous treasure of a vast army of nomadic warriors",
+        "clue_text": "Hidden fabulous treasure of a vast army of nomadic warriors",
+        "correct_response": "a horde hoard"
+    },
+    "clue_DJ_3_3": {
+        "id": "359776",
+        "clue_html": "Kafka was a great admirer of this author of &quot;Madame Bovary&quot;, calling him one of his literary &quot;blood relatives&quot;",
+        "clue_text": "Kafka was a great admirer of this author of \"Madame Bovary\", calling him one of his literary \"blood relatives\"",
+        "correct_response": "(Gustave) Flaubert"
+    },
+    "clue_DJ_4_3": {
+        "id": "359781",
+        "clue_html": "Daft Punk&apos;s &quot;Harder, Better, Faster, Stronger&quot; was adapted into this rapper&apos;s &quot;Stronger&quot;",
+        "clue_text": "Daft Punk's \"Harder, Better, Faster, Stronger\" was adapted into this rapper's \"Stronger\"",
+        "correct_response": "Kanye West"
+    },
+    "clue_DJ_5_3": {
+        "id": "359786",
+        "clue_html": "Once, the South&apos;s main industry was this tree product, now used for paint removal but then for pitch &amp; tar on ships",
+        "clue_text": "Once, the South's main industry was this tree product, now used for paint removal but then for pitch & tar on ships",
+        "correct_response": "turpentine"
+    },
+    "clue_DJ_6_3": {
+        "id": "359791",
+        "clue_html": "After a contest in this city, Margaret Gorman was the first to hold the title Miss America",
+        "clue_text": "After a contest in this city, Margaret Gorman was the first to hold the title Miss America",
+        "correct_response": "Atlantic City"
+    },
+    "clue_DJ_1_4": {
+        "id": "359767",
+        "triple_stumper": true,
+        "clue_html": "A 2009 Illinois resolution made every February 6 this 20th century president&apos;s day",
+        "clue_text": "A 2009 Illinois resolution made every February 6 this 20th century president's day",
+        "correct_response": "Ronald Reagan"
+    },
+    "clue_DJ_2_4": {
+        "id": "359772",
+        "clue_html": "A wire object for your shirt while servicing an airplane indoors",
+        "clue_text": "A wire object for your shirt while servicing an airplane indoors",
+        "correct_response": "a hangar hanger"
+    },
+    "clue_DJ_3_4": {
+        "id": "359777",
+        "daily_double": true,
+        "clue_html": "&quot;In the Empty Courtroom&quot; is a chapter in this novel in which Joseph K. is inexplicably arrested",
+        "clue_text": "\"In the Empty Courtroom\" is a chapter in this novel in which Joseph K. is inexplicably arrested",
+        "correct_response": "The Trial"
+    },
+    "clue_DJ_4_4": {
+        "id": "359782",
+        "clue_html": "On Eminem&apos;s &quot;Sing For The Moment&quot;, Joe Perry played the riff from this Aerosmith song with a 2-word title",
+        "clue_text": "On Eminem's \"Sing For The Moment\", Joe Perry played the riff from this Aerosmith song with a 2-word title",
+        "correct_response": "\"Dream On\""
+    },
+    "clue_DJ_5_4": {
+        "id": "359787",
+        "clue_html": "Defending the fortress of Jotapata, Jewish leader Josephus poured this hot stuff on the Romans",
+        "clue_text": "Defending the fortress of Jotapata, Jewish leader Josephus poured this hot stuff on the Romans",
+        "correct_response": "boiling oil"
+    },
+    "clue_DJ_6_4": {
+        "id": "359792",
+        "daily_double": true,
+        "clue_html": "Today a capital &amp; once part of the Byzantine Empire, it fell to Persians, Romans &amp; Turks",
+        "clue_text": "Today a capital & once part of the Byzantine Empire, it fell to Persians, Romans & Turks",
+        "correct_response": "Ankara"
+    },
+    "clue_DJ_1_5": {
+        "id": "359768",
+        "clue_html": "This state observes Herbert Hoover Day",
+        "clue_text": "This state observes Herbert Hoover Day",
+        "correct_response": "Iowa"
+    },
+    "clue_DJ_2_5": {
+        "id": "359773",
+        "clue_html": "The warlike ceremonial leader of the Rose Parade",
+        "clue_text": "The warlike ceremonial leader of the Rose Parade",
+        "correct_response": "the martial marshal"
+    },
+    "clue_DJ_3_5": {
+        "id": "359778",
+        "triple_stumper": true,
+        "clue_html": "Kafka&apos;s last novel is called this, like the one on Hradcany Hill that overlooks his hometown",
+        "clue_text": "Kafka's last novel is called this, like the one on Hradcany Hill that overlooks his hometown",
+        "correct_response": "The Castle"
+    },
+    "clue_DJ_4_5": {
+        "id": "359783",
+        "clue_html": "The yodeling &quot;yeah yeah&quot; from this Canadian punk girl&apos;s &quot;I&apos;m With You&quot; was used in &quot;Cheers&quot; by Rihanna",
+        "clue_text": "The yodeling \"yeah yeah\" from this Canadian punk girl's \"I'm With You\" was used in \"Cheers\" by Rihanna",
+        "correct_response": "(Avril) Lavigne"
+    },
+    "clue_DJ_5_5": {
+        "id": "359788",
+        "clue_html": "In 1943 Norwegian commandos &amp; Allied bombs wrecked the Nazis&apos; production of this A-bomb-making liquid at Rjukan",
+        "clue_text": "In 1943 Norwegian commandos & Allied bombs wrecked the Nazis' production of this A-bomb-making liquid at Rjukan",
+        "correct_response": "heavy water"
+    },
+    "clue_DJ_6_5": {
+        "id": "359793",
+        "clue_html": "It&apos;s near the confluence of the Pilcomayo &amp; Paraguay Rivers",
+        "clue_text": "It's near the confluence of the Pilcomayo & Paraguay Rivers",
+        "correct_response": "Asuncion"
+    },
+    "category_FJ_1": {
+        "category_name": "19th CENTURY INVENTORS",
+        "category_comments": ""
+    },
+    "clue_FJ": {
+        "clue_html": "He spent his life improving a plant-based substance he described as a &quot;vegetable leather&quot; or &quot;elastic metal&quot;",
+        "clue_text": "He spent his life improving a plant-based substance he described as a \"vegetable leather\" or \"elastic metal\"",
+        "correct_response": "Charles Goodyear"
+    }
+}

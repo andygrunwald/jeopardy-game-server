@@ -1,0 +1,455 @@
+{
+    "id": "Season_1/2019-02-19",
+    "game_title": "Show #7932 - Tuesday, February 19, 2019",
+    "game_comments": "",
+    "game_complete": false,
+    "category_J_1": {
+        "category_name": "ALEX' BUCKET LIST",
+        "category_comments": "",
+        "clue_count": 4
+    },
+    "category_J_2": {
+        "category_name": "EATING VERBS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_3": {
+        "category_name": "WHAT'S HAPPENING THIS MONTH?",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_4": {
+        "category_name": "OSCAR RECORDS",
+        "category_comments": "(Alex: Remember, the Academy Awards are this weekend.)",
+        "clue_count": 5
+    },
+    "category_J_5": {
+        "category_name": "MY GOD",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_6": {
+        "category_name": "IT'S FULL OF STORES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_J_1_1": {
+        "id": "359972",
+        "clue_html": "Both the remoteness--2,200 miles west of Chile--&amp; the mysterious <a href=\"http://www.j-archive.com/media/2019-02-19_J_26.jpg\" target=\"_blank\">Moai statues</a> put this island on my bucket list",
+        "clue_text": "Both the remoteness--2,200 miles west of Chile--& the mysterious Moai statues put this island on my bucket list",
+        "correct_response": "Easter Island",
+        "media": [
+            "http://localhost:3000/media/2019-02-19_J_26.jpg"
+        ]
+    },
+    "clue_J_2_1": {
+        "id": "359957",
+        "clue_html": "To alter food by the action of stomach chemicals so that it can be absorbed",
+        "clue_text": "To alter food by the action of stomach chemicals so that it can be absorbed",
+        "correct_response": "digest"
+    },
+    "clue_J_3_1": {
+        "id": "359976",
+        "clue_html": "Earth Day,<br>Tax Day",
+        "clue_text": "Earth Day,Tax Day",
+        "correct_response": "April"
+    },
+    "clue_J_4_1": {
+        "id": "359962",
+        "clue_html": "&quot;Life is Beautiful&quot; &amp; &quot;8 1/2&quot; are 2 of the record 14 films from this country to win Best Foreign Language Film",
+        "clue_text": "\"Life is Beautiful\" & \"8 1/2\" are 2 of the record 14 films from this country to win Best Foreign Language Film",
+        "correct_response": "Italy"
+    },
+    "clue_J_5_1": {
+        "id": "359967",
+        "clue_html": "Dionysus, party god of fertility &amp; ecstasy, became god of this beverage, too, be it still, dry or sparkling",
+        "clue_text": "Dionysus, party god of fertility & ecstasy, became god of this beverage, too, be it still, dry or sparkling",
+        "correct_response": "wine"
+    },
+    "clue_J_6_1": {
+        "id": "359981",
+        "clue_html": "Tom Stemberg decided the world needed an office products supermarket &amp; so he founded this chain; that was easy",
+        "clue_text": "Tom Stemberg decided the world needed an office products supermarket & so he founded this chain; that was easy",
+        "correct_response": "Staples"
+    },
+    "clue_J_1_2": {
+        "id": "359973",
+        "clue_html": "Having been to every continent except <a href=\"http://www.j-archive.com/media/2019-02-19_J_27.jpg\" target=\"_blank\">this</a> one, the smallest, puts it on the list",
+        "clue_text": "Having been to every continent except this one, the smallest, puts it on the list",
+        "correct_response": "Australia",
+        "media": [
+            "http://localhost:3000/media/2019-02-19_J_27.jpg"
+        ]
+    },
+    "clue_J_2_2": {
+        "id": "359958",
+        "clue_html": "To snack continuously, the way an antelope nibbles along open grasslands",
+        "clue_text": "To snack continuously, the way an antelope nibbles along open grasslands",
+        "correct_response": "graze"
+    },
+    "clue_J_3_2": {
+        "id": "359977",
+        "clue_html": "Columbus Day,<br>Boss&apos; Day",
+        "clue_text": "Columbus Day,Boss' Day",
+        "correct_response": "October"
+    },
+    "clue_J_4_2": {
+        "id": "359963",
+        "clue_html": "For &quot;Mudbound&quot;, Rachel Morrison was the first woman nominated in this category given to directors of photography",
+        "clue_text": "For \"Mudbound\", Rachel Morrison was the first woman nominated in this category given to directors of photography",
+        "correct_response": "Cinematography"
+    },
+    "clue_J_5_2": {
+        "id": "359968",
+        "clue_html": "Out of darkness emerge sky father Rangi &amp; earth mother Papa in creation stories of this New Zealand people",
+        "clue_text": "Out of darkness emerge sky father Rangi & earth mother Papa in creation stories of this New Zealand people",
+        "correct_response": "the Maori"
+    },
+    "clue_J_6_2": {
+        "id": "359982",
+        "clue_html": "The name of this clothing retailer is also a term for a one-export country",
+        "clue_text": "The name of this clothing retailer is also a term for a one-export country",
+        "correct_response": "Banana Republic"
+    },
+    "clue_J_2_3": {
+        "id": "359959",
+        "clue_html": "As a noun, it means fabric worn around the neck; as a verb, it means to eat quickly",
+        "clue_text": "As a noun, it means fabric worn around the neck; as a verb, it means to eat quickly",
+        "correct_response": "scarf"
+    },
+    "clue_J_3_3": {
+        "id": "359978",
+        "clue_html": "Festivus,<br>International Migrants Day",
+        "clue_text": "Festivus,International Migrants Day",
+        "correct_response": "December"
+    },
+    "clue_J_4_3": {
+        "id": "359964",
+        "daily_double": true,
+        "clue_html": "Winning for &quot;The Miracle Worker&quot;, Patty Duke is tied for the shortest Oscar speech: <br>These 2 words",
+        "clue_text": "Winning for \"The Miracle Worker\", Patty Duke is tied for the shortest Oscar speech: These 2 words",
+        "correct_response": "thank you"
+    },
+    "clue_J_5_3": {
+        "id": "359969",
+        "clue_html": "Some Romans worshipped Orcus as the god of the dead; others worshipped this planetary one",
+        "clue_text": "Some Romans worshipped Orcus as the god of the dead; others worshipped this planetary one",
+        "correct_response": "Pluto"
+    },
+    "clue_J_6_3": {
+        "id": "359983",
+        "clue_html": "Two Korean immigrants with no college degrees moved to L.A. &amp; in 1984 opened Fashion 21, later renamed this",
+        "clue_text": "Two Korean immigrants with no college degrees moved to L.A. & in 1984 opened Fashion 21, later renamed this",
+        "correct_response": "Forever 21"
+    },
+    "clue_J_1_4": {
+        "id": "359974",
+        "triple_stumper": true,
+        "clue_html": "I want to make a pilgrimage to the <a href=\"http://www.j-archive.com/media/2019-02-19_J_29.jpg\" target=\"_blank\">Potala Palace</a>, once the main residence of the Dalai Lama, in this city 12,000 feet up",
+        "clue_text": "I want to make a pilgrimage to the Potala Palace, once the main residence of the Dalai Lama, in this city 12,000 feet up",
+        "correct_response": "Lhasa",
+        "media": [
+            "http://localhost:3000/media/2019-02-19_J_29.jpg"
+        ]
+    },
+    "clue_J_2_4": {
+        "id": "359960",
+        "clue_html": "It can mean a pickle topping for hot dogs or to eat with great pleasure",
+        "clue_text": "It can mean a pickle topping for hot dogs or to eat with great pleasure",
+        "correct_response": "relish"
+    },
+    "clue_J_3_4": {
+        "id": "359979",
+        "clue_html": "Victoria Day (in Canada),<br>V-E Day",
+        "clue_text": "Victoria Day (in Canada),V-E Day",
+        "correct_response": "May"
+    },
+    "clue_J_4_4": {
+        "id": "359965",
+        "clue_html": "This actor&apos;s last-minute work on &quot;All the Money in the World&quot; made him the oldest actor ever nominated at 88",
+        "clue_text": "This actor's last-minute work on \"All the Money in the World\" made him the oldest actor ever nominated at 88",
+        "correct_response": "Christopher Plummer"
+    },
+    "clue_J_5_4": {
+        "id": "359970",
+        "clue_html": "Marduk thrashed Tiamat, the monster of Chaos, to become the deity of this city known for its hanging gardens",
+        "clue_text": "Marduk thrashed Tiamat, the monster of Chaos, to become the deity of this city known for its hanging gardens",
+        "correct_response": "Babylon"
+    },
+    "clue_J_6_4": {
+        "id": "359984",
+        "clue_html": "Sadly, many of its &quot;referees&quot; were ejected from the game when this shoe store chain said it was closing 110 stores in 2018",
+        "clue_text": "Sadly, many of its \"referees\" were ejected from the game when this shoe store chain said it was closing 110 stores in 2018",
+        "correct_response": "Foot Locker"
+    },
+    "clue_J_1_5": {
+        "id": "359975",
+        "clue_html": "I&apos;ve seen Niagara &amp; Victoria, but need to head to the Brazil-Argentina border where <a href=\"http://www.j-archive.com/media/2019-02-19_J_28.jpg\" target=\"_blank\">these</a> falls divided into 275 cataracts",
+        "clue_text": "I've seen Niagara & Victoria, but need to head to the Brazil-Argentina border where these falls divided into 275 cataracts",
+        "correct_response": "Iguazu Falls",
+        "media": [
+            "http://localhost:3000/media/2019-02-19_J_28.jpg"
+        ]
+    },
+    "clue_J_2_5": {
+        "id": "359961",
+        "clue_html": "This verb that starts with a silent letter means to chew something that resists being chewed, like a dog&apos;s bone",
+        "clue_text": "This verb that starts with a silent letter means to chew something that resists being chewed, like a dog's bone",
+        "correct_response": "gnaw"
+    },
+    "clue_J_3_5": {
+        "id": "359980",
+        "clue_html": "England&apos;s Twelfth Night,<br>Battle of New Orleans Day",
+        "clue_text": "England's Twelfth Night,Battle of New Orleans Day",
+        "correct_response": "January"
+    },
+    "clue_J_4_5": {
+        "id": "359966",
+        "clue_html": "Beginning in 1940 this comic hosted the Oscars the most times--18",
+        "clue_text": "Beginning in 1940 this comic hosted the Oscars the most times--18",
+        "correct_response": "Bob Hope"
+    },
+    "clue_J_5_5": {
+        "id": "359971",
+        "clue_html": "The blind god Hod mistakenly killed this handsome &amp; beloved son of Odin",
+        "clue_text": "The blind god Hod mistakenly killed this handsome & beloved son of Odin",
+        "correct_response": "Balder"
+    },
+    "clue_J_6_5": {
+        "id": "359985",
+        "clue_html": "&quot;Live Well&quot; is the slogan of this 3-letter nutritional supplement chain",
+        "clue_text": "\"Live Well\" is the slogan of this 3-letter nutritional supplement chain",
+        "correct_response": "GNC"
+    },
+    "category_DJ_1": {
+        "category_name": "IT'S TWOSDAY!",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_2": {
+        "category_name": "McPEOPLE",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_3": {
+        "category_name": "AMERICAN LITERATURE",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_4": {
+        "category_name": "THAT'S A CLOWN CATEGORY",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_5": {
+        "category_name": "PARIS POTPOURRI",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_6": {
+        "category_name": "CROSSWORD CLUES \"K\"",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_DJ_1_1": {
+        "id": "359986",
+        "clue_html": "Cheers to you if you know that they&apos;re the 2 ingredients in a traditional mimosa",
+        "clue_text": "Cheers to you if you know that they're the 2 ingredients in a traditional mimosa",
+        "correct_response": "champagne and orange juice"
+    },
+    "clue_DJ_2_1": {
+        "id": "359991",
+        "clue_html": "This senator &amp; war hero died in 2018 after a battle with brain cancer",
+        "clue_text": "This senator & war hero died in 2018 after a battle with brain cancer",
+        "correct_response": "(John) McCain"
+    },
+    "clue_DJ_3_1": {
+        "id": "359996",
+        "clue_html": "E.L. Doctorow&apos;s novel &quot;The March&quot; uses this general&apos;s 1864 trek through Georgia as its backdrop",
+        "clue_text": "E.L. Doctorow's novel \"The March\" uses this general's 1864 trek through Georgia as its backdrop",
+        "correct_response": "General Sherman"
+    },
+    "clue_DJ_4_1": {
+        "id": "360001",
+        "clue_html": "Bart Simpson says of him, &quot;He&apos;s my idol. I&apos;ve based my whole life on his teachings&quot;",
+        "clue_text": "Bart Simpson says of him, \"He's my idol. I've based my whole life on his teachings\"",
+        "correct_response": "Krusty the Clown"
+    },
+    "clue_DJ_5_1": {
+        "id": "360006",
+        "clue_html": "Rive Gauche &amp; Rive Droite are the left &amp; right banks of this Paris river",
+        "clue_text": "Rive Gauche & Rive Droite are the left & right banks of this Paris river",
+        "correct_response": "the Seine"
+    },
+    "clue_DJ_6_1": {
+        "id": "360011",
+        "clue_html": "Moscow citadel<br>(7)",
+        "clue_text": "Moscow citadel(7)",
+        "correct_response": "Kremlin"
+    },
+    "clue_DJ_1_2": {
+        "id": "359987",
+        "clue_html": "They&apos;re the 2 main political parties in Britain",
+        "clue_text": "They're the 2 main political parties in Britain",
+        "correct_response": "Labour and Conservative"
+    },
+    "clue_DJ_2_2": {
+        "id": "359992",
+        "clue_html": "This last name of Richard, seen <a href=\"http://www.j-archive.com/media/2019-02-19_DJ_09.jpg\" target=\"_blank\">here</a>, was on signs all over the United States by the time he died in 1998",
+        "clue_text": "This last name of Richard, seen here, was on signs all over the United States by the time he died in 1998",
+        "correct_response": "McDonald",
+        "media": [
+            "http://localhost:3000/media/2019-02-19_DJ_09.jpg"
+        ]
+    },
+    "clue_DJ_3_2": {
+        "id": "359997",
+        "daily_double": true,
+        "clue_html": "In Oz she&apos;s the good witch who helps Dorothy get back to Kansas",
+        "clue_text": "In Oz she's the good witch who helps Dorothy get back to Kansas",
+        "correct_response": "Glinda"
+    },
+    "clue_DJ_4_2": {
+        "id": "360002",
+        "clue_html": "A line from this novel: &quot;I...am Mr. Bob Gray, also known as Pennywise the Dancing Clown&quot;",
+        "clue_text": "A line from this novel: \"I...am Mr. Bob Gray, also known as Pennywise the Dancing Clown\"",
+        "correct_response": "It"
+    },
+    "clue_DJ_5_2": {
+        "id": "360007",
+        "clue_html": "In Shakespeare her parents want her to marry Paris, a nobleman &amp; kinsman of the prince of Verona",
+        "clue_text": "In Shakespeare her parents want her to marry Paris, a nobleman & kinsman of the prince of Verona",
+        "correct_response": "Juliet"
+    },
+    "clue_DJ_6_2": {
+        "id": "360012",
+        "clue_html": "Cosmic reincarnation principle<br>(5)",
+        "clue_text": "Cosmic reincarnation principle(5)",
+        "correct_response": "karma"
+    },
+    "clue_DJ_1_3": {
+        "id": "359988",
+        "clue_html": "Jesus fed a famished 5,000 with this nourishing pair",
+        "clue_text": "Jesus fed a famished 5,000 with this nourishing pair",
+        "correct_response": "bread and fish"
+    },
+    "clue_DJ_2_3": {
+        "id": "359993",
+        "clue_html": "This Union general was &quot;the young Napoleon of the West&quot;",
+        "clue_text": "This Union general was \"the young Napoleon of the West\"",
+        "correct_response": "McClellan"
+    },
+    "clue_DJ_3_3": {
+        "id": "359998",
+        "clue_html": "In one version the last speech of a play by him says, &quot;Nothing&apos;s more determined than a cat on a tin roof&quot;",
+        "clue_text": "In one version the last speech of a play by him says, \"Nothing's more determined than a cat on a tin roof\"",
+        "correct_response": "Tennessee Williams"
+    },
+    "clue_DJ_4_3": {
+        "id": "360003",
+        "triple_stumper": true,
+        "clue_html": "In 1952, with the help of Hank Aaron, the Indianapolis Clowns won the championship in this organization",
+        "clue_text": "In 1952, with the help of Hank Aaron, the Indianapolis Clowns won the championship in this organization",
+        "correct_response": "the Negro Leagues"
+    },
+    "clue_DJ_5_3": {
+        "id": "360008",
+        "clue_html": "For 5 seasons, she &amp; BFF Nicole Richie starred on the reality series &quot;The Simple Life&quot;",
+        "clue_text": "For 5 seasons, she & BFF Nicole Richie starred on the reality series \"The Simple Life\"",
+        "correct_response": "Paris Hilton"
+    },
+    "clue_DJ_6_3": {
+        "id": "360013",
+        "clue_html": "Garments gotten &quot;in a twist&quot;<br>(8)",
+        "clue_text": "Garments gotten \"in a twist\"(8)",
+        "correct_response": "knickers"
+    },
+    "clue_DJ_1_4": {
+        "id": "359989",
+        "clue_html": "The 2 main types of camel are the dromedary &amp; this 2-humped variety named for a region of Asia",
+        "clue_text": "The 2 main types of camel are the dromedary & this 2-humped variety named for a region of Asia",
+        "correct_response": "Bactrians"
+    },
+    "clue_DJ_2_4": {
+        "id": "359994",
+        "clue_html": "This Scottish-born fur trader founded a university in Montreal",
+        "clue_text": "This Scottish-born fur trader founded a university in Montreal",
+        "correct_response": "(James) McGill"
+    },
+    "clue_DJ_3_4": {
+        "id": "359999",
+        "clue_html": "In a 1912 Edgar Rice Burroughs tale, Civil War vet John Carter is magically transported here",
+        "clue_text": "In a 1912 Edgar Rice Burroughs tale, Civil War vet John Carter is magically transported here",
+        "correct_response": "Mars"
+    },
+    "clue_DJ_4_4": {
+        "id": "360004",
+        "clue_html": "Zach Galifianakis fails out of a French clown college at the start of this TV series",
+        "clue_text": "Zach Galifianakis fails out of a French clown college at the start of this TV series",
+        "correct_response": "Baskets"
+    },
+    "clue_DJ_5_4": {
+        "id": "360009",
+        "triple_stumper": true,
+        "clue_html": "Used for casts &amp; molds, plaster of Paris is made from this soft mineral",
+        "clue_text": "Used for casts & molds, plaster of Paris is made from this soft mineral",
+        "correct_response": "gypsum"
+    },
+    "clue_DJ_6_4": {
+        "id": "360014",
+        "clue_html": "Invasive climbing vine <br>(5)",
+        "clue_text": "Invasive climbing vine (5)",
+        "correct_response": "kudzu"
+    },
+    "clue_DJ_1_5": {
+        "id": "359990",
+        "clue_html": "They&apos;re the 2 signs of the zodiac whose symbols are arthropods",
+        "clue_text": "They're the 2 signs of the zodiac whose symbols are arthropods",
+        "correct_response": "Cancer and Scorpio"
+    },
+    "clue_DJ_2_5": {
+        "id": "359995",
+        "daily_double": true,
+        "clue_html": "Randolph (AKA Rand&apos;l) was the head of this clan in Pike County, Kentucky",
+        "clue_text": "Randolph (AKA Rand'l) was the head of this clan in Pike County, Kentucky",
+        "correct_response": "the McCoys"
+    },
+    "clue_DJ_3_5": {
+        "id": "360000",
+        "triple_stumper": true,
+        "clue_html": "John Steinbeck&apos;s &quot;East of Eden&quot; plays out its Cain &amp; Abel parable in this California valley",
+        "clue_text": "John Steinbeck's \"East of Eden\" plays out its Cain & Abel parable in this California valley",
+        "correct_response": "the Salinas Valley"
+    },
+    "clue_DJ_4_5": {
+        "id": "360005",
+        "clue_html": "The early 18th century Watteau work seen <a href=\"http://www.j-archive.com/media/2019-02-19_DJ_19.jpg\" target=\"_blank\">here</a> has been called the prototypical this-adjective clown",
+        "clue_text": "The early 18th century Watteau work seen here has been called the prototypical this-adjective clown",
+        "correct_response": "sad",
+        "media": [
+            "http://localhost:3000/media/2019-02-19_DJ_19.jpg"
+        ]
+    },
+    "clue_DJ_5_5": {
+        "id": "360010",
+        "triple_stumper": true,
+        "clue_html": "In Greek mythology Paris is the son of this king of Troy",
+        "clue_text": "In Greek mythology Paris is the son of this king of Troy",
+        "correct_response": "Priam"
+    },
+    "clue_DJ_6_5": {
+        "id": "360015",
+        "clue_html": "No fair trials in this court<br>(8)",
+        "clue_text": "No fair trials in this court(8)",
+        "correct_response": "kangaroo"
+    },
+    "category_FJ_1": {
+        "category_name": "BROADWAY MUSICALS",
+        "category_comments": ""
+    },
+    "clue_FJ": {
+        "clue_html": "The title of this musical that opened in 1956 came from the last line of a nursery rhyme about a structure that spanned the Thames",
+        "clue_text": "The title of this musical that opened in 1956 came from the last line of a nursery rhyme about a structure that spanned the Thames",
+        "correct_response": "My Fair Lady"
+    }
+}
