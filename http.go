@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"net/http"
 	"os"
+	"sort"
 	"strings"
 
 	"github.com/gorilla/mux"
@@ -13,10 +14,17 @@ import (
 // SeasonsHandler represents the API endpoint to receive all
 // available Jeopardy Game Seasons
 func (s *server) SeasonsHandler(w http.ResponseWriter, r *http.Request) {
+	// Sort keys in reverse order to deliver a stable order
+	var keys []string
+	for k := range s.Cache.SeasonCache {
+		keys = append(keys, k)
+	}
+	sort.Sort(sort.Reverse(sort.StringSlice(keys)))
+
 	// Load season data from cache
 	seasons := []json.RawMessage{}
-	for _, v := range s.Cache.SeasonCache {
-		seasons = append(seasons, json.RawMessage(v))
+	for _, k := range keys {
+		seasons = append(seasons, json.RawMessage(s.Cache.SeasonCache[k]))
 	}
 
 	// Convert it to JSON
@@ -53,6 +61,13 @@ func (s *server) SeasonHandler(w http.ResponseWriter, r *http.Request) {
 	prefix := s.GamesPath + string(os.PathSeparator) + vars["seasonID"] + string(os.PathSeparator)
 	suffix := string(os.PathSeparator) + "overview.json"
 
+	// Sort keys in reverse order to deliver a stable order
+	var keys []string
+	for k := range s.Cache.GameCache {
+		keys = append(keys, k)
+	}
+	sort.Sort(sort.Reverse(sort.StringSlice(keys)))
+
 	// Load game overview data from the cache
 	// Yep we know, we could build the cache in a more smarter way
 	// But hey, who cares? "Make it work, make it fast, make it beautiful".
@@ -60,9 +75,9 @@ func (s *server) SeasonHandler(w http.ResponseWriter, r *http.Request) {
 	// So the new rule is "Make it work, make it fast enough and be pragmatic".
 	// Feel free to quote me. Andy Grunwald wrote this at 2019-02-20, 11:53 pm.
 	games := []json.RawMessage{}
-	for k, v := range s.Cache.GameCache {
+	for _, k := range keys {
 		if strings.HasPrefix(k, prefix) && strings.HasSuffix(k, suffix) {
-			games = append(games, json.RawMessage(v))
+			games = append(games, json.RawMessage(s.Cache.GameCache[k]))
 		}
 	}
 
