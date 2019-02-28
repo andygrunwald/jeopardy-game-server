@@ -1,0 +1,233 @@
+{
+    "id": "example-season-1/2019-02-26",
+    "game_title": "Show #7937 - Tuesday, February 26, 2019",
+    "game_comments": "2019 All-Star Games match 2, continuation of game 1.",
+    "game_complete": false,
+    "category_DJ_1": {
+        "category_name": "ANCIENT AGRICULTURE",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_2": {
+        "category_name": "JUST THE FACTS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_3": {
+        "category_name": "LAKES & RIVERS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_4": {
+        "category_name": "LEADERS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_5": {
+        "category_name": "\"INTER\"",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_6": {
+        "category_name": "LAUGHING",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_DJ_1_1": {
+        "id": "360181",
+        "clue_html": "This robust New World crop descended from teosinte, which only had about a dozen kernels per ear",
+        "clue_text": "This robust New World crop descended from teosinte, which only had about a dozen kernels per ear",
+        "correct_response": "maize"
+    },
+    "clue_DJ_2_1": {
+        "id": "360184",
+        "clue_html": "The House of Representatives convened in 2019 with Kevin McCarthy in this post",
+        "clue_text": "The House of Representatives convened in 2019 with Kevin McCarthy in this post",
+        "correct_response": "House Minority Leader"
+    },
+    "clue_DJ_3_1": {
+        "id": "360185",
+        "clue_html": "Lake Wakatipu in this country was used as a backdrop in the &quot;Lord of the Rings&quot; movies",
+        "clue_text": "Lake Wakatipu in this country was used as a backdrop in the \"Lord of the Rings\" movies",
+        "correct_response": "New Zealand"
+    },
+    "clue_DJ_4_1": {
+        "id": "360189",
+        "clue_html": "Time for follow the leader: <br>19. Hayes<br>20. Garfield &amp;<br>21. him",
+        "clue_text": "Time for follow the leader: 19. Hayes20. Garfield &21. him",
+        "correct_response": "(Chester) Arthur"
+    },
+    "clue_DJ_5_1": {
+        "id": "360190",
+        "clue_html": "A group action to get a substance abuser to seek help",
+        "clue_text": "A group action to get a substance abuser to seek help",
+        "correct_response": "intervention"
+    },
+    "clue_DJ_6_1": {
+        "id": "360195",
+        "clue_html": "Taking over &quot;The Tonight Show&quot; gig in 2014, this comedian quipped, &quot;I&apos;ll be your host...for now&quot;",
+        "clue_text": "Taking over \"The Tonight Show\" gig in 2014, this comedian quipped, \"I'll be your host...for now\"",
+        "correct_response": "(Jimmy) Fallon"
+    },
+    "clue_DJ_1_2": {
+        "id": "360166",
+        "clue_html": "Used to break up the soil, it evolved from the prehistoric digging stick &amp; was improved in the 18th century with a moldboard",
+        "clue_text": "Used to break up the soil, it evolved from the prehistoric digging stick & was improved in the 18th century with a moldboard",
+        "correct_response": "a plow"
+    },
+    "clue_DJ_2_2": {
+        "id": "360168",
+        "triple_stumper": true,
+        "clue_html": "The 2 Asian apes are the orangutan &amp; this arboreal one",
+        "clue_text": "The 2 Asian apes are the orangutan & this arboreal one",
+        "correct_response": "the gibbon"
+    },
+    "clue_DJ_3_2": {
+        "id": "360172",
+        "daily_double": true,
+        "clue_html": "During monsoon season, this river in Cambodia reverses its flow, flooding the Tonle Sap River &amp; Tonle Sap Lake",
+        "clue_text": "During monsoon season, this river in Cambodia reverses its flow, flooding the Tonle Sap River & Tonle Sap Lake",
+        "correct_response": "the Mekong"
+    },
+    "clue_DJ_4_2": {
+        "id": "360173",
+        "clue_html": "Walter Reuther ran this union&apos;s GM department from 1939 &amp; the whole union from 1946 to 1970",
+        "clue_text": "Walter Reuther ran this union's GM department from 1939 & the whole union from 1946 to 1970",
+        "correct_response": "United Auto Workers"
+    },
+    "clue_DJ_5_2": {
+        "id": "360191",
+        "clue_html": "Safety Paul Krause holds the NFL record with 81 of these",
+        "clue_text": "Safety Paul Krause holds the NFL record with 81 of these",
+        "correct_response": "interceptions"
+    },
+    "clue_DJ_6_2": {
+        "id": "360177",
+        "clue_html": "The Festrunk brothers were the &quot;Two Wild &amp; Crazy Guys&quot; played by this pair on &quot;Saturday Night Live&quot;",
+        "clue_text": "The Festrunk brothers were the \"Two Wild & Crazy Guys\" played by this pair on \"Saturday Night Live\"",
+        "correct_response": "Steve Martin & Dan Aykroyd"
+    },
+    "clue_DJ_1_3": {
+        "id": "360182",
+        "daily_double": true,
+        "clue_html": "The Romans made sure to plant legumes, which increase yield by returning this element to the soil",
+        "clue_text": "The Romans made sure to plant legumes, which increase yield by returning this element to the soil",
+        "correct_response": "nitrogen"
+    },
+    "clue_DJ_2_3": {
+        "id": "360169",
+        "clue_html": "To<br>the <br>nearest<br>thousand,<br>the height<br>in feet<br>of Mount Everest",
+        "clue_text": "Tothe nearestthousand,the heightin feetof Mount Everest",
+        "correct_response": "29,000"
+    },
+    "clue_DJ_3_3": {
+        "id": "360186",
+        "clue_html": "Boundary Lake is shared by North Dakota &amp; this Canadian province",
+        "clue_text": "Boundary Lake is shared by North Dakota & this Canadian province",
+        "correct_response": "Manitoba"
+    },
+    "clue_DJ_4_3": {
+        "id": "360174",
+        "triple_stumper": true,
+        "clue_html": "Comic songs &amp; sounds were his forte as 1940 bandleader of the City Slickers",
+        "clue_text": "Comic songs & sounds were his forte as 1940 bandleader of the City Slickers",
+        "correct_response": "Spike Jones"
+    },
+    "clue_DJ_5_3": {
+        "id": "360192",
+        "clue_html": "Around 1950 these devices became common to talk to NYC apartment dwellers",
+        "clue_text": "Around 1950 these devices became common to talk to NYC apartment dwellers",
+        "correct_response": "intercoms"
+    },
+    "clue_DJ_6_3": {
+        "id": "360178",
+        "clue_html": "&quot;Sexy French Depression&quot; is one of her musical numbers as Rebecca on &quot;Crazy Ex-Girlfriend&quot;",
+        "clue_text": "\"Sexy French Depression\" is one of her musical numbers as Rebecca on \"Crazy Ex-Girlfriend\"",
+        "correct_response": "(Rachel) Bloom"
+    },
+    "clue_DJ_1_4": {
+        "id": "360183",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2019-02-26_DJ_17.jpg\" target=\"_blank\">Jimmy of the Clue Crew shows an irrigation model on the diagram.</a>) To irrigate farmland, the Persian empire built qanats, tunnels that tap into this underground source, from the Latin for &quot;water-bearing&quot;",
+        "clue_text": "(Jimmy of the Clue Crew shows an irrigation model on the diagram.) To irrigate farmland, the Persian empire built qanats, tunnels that tap into this underground source, from the Latin for \"water-bearing\"",
+        "correct_response": "aquifer",
+        "media": [
+            "http://localhost:3000/media/2019-02-26_DJ_17.jpg"
+        ]
+    },
+    "clue_DJ_2_4": {
+        "id": "360170",
+        "clue_html": "Shakespeare&apos;s shortest play is this twisted yarn with twins both named Antipholus",
+        "clue_text": "Shakespeare's shortest play is this twisted yarn with twins both named Antipholus",
+        "correct_response": "The Comedy of Errors"
+    },
+    "clue_DJ_3_4": {
+        "id": "360187",
+        "clue_html": "The Amazon River begins not in Brazil but with headwaters in this western South American country",
+        "clue_text": "The Amazon River begins not in Brazil but with headwaters in this western South American country",
+        "correct_response": "Peru"
+    },
+    "clue_DJ_4_4": {
+        "id": "360175",
+        "clue_html": "Viktor Orban is the anti-immigrant leader of this European country",
+        "clue_text": "Viktor Orban is the anti-immigrant leader of this European country",
+        "correct_response": "Hungary"
+    },
+    "clue_DJ_5_4": {
+        "id": "360193",
+        "clue_html": "Some think that the electric car will abolish ICE, short for this traditional type of engine",
+        "clue_text": "Some think that the electric car will abolish ICE, short for this traditional type of engine",
+        "correct_response": "internal combustion engine"
+    },
+    "clue_DJ_6_4": {
+        "id": "360179",
+        "clue_html": "Manuel, Polly &amp; of course, Basil were denizens of this wacky British TV establishment",
+        "clue_text": "Manuel, Polly & of course, Basil were denizens of this wacky British TV establishment",
+        "correct_response": "Fawlty Towers"
+    },
+    "clue_DJ_1_5": {
+        "id": "360167",
+        "triple_stumper": true,
+        "clue_html": "Deuteronomy 8:8 promises a land not of milk &amp; honey but of this salad dressing &quot;and honey&quot;",
+        "clue_text": "Deuteronomy 8:8 promises a land not of milk & honey but of this salad dressing \"and honey\"",
+        "correct_response": "olive oil"
+    },
+    "clue_DJ_2_5": {
+        "id": "360171",
+        "clue_html": "Maynard Jackson&apos;s 1973 election as the first black mayor of this state capital was seen as a sign of &quot;The New South&quot;",
+        "clue_text": "Maynard Jackson's 1973 election as the first black mayor of this state capital was seen as a sign of \"The New South\"",
+        "correct_response": "Atlanta"
+    },
+    "clue_DJ_3_5": {
+        "id": "360188",
+        "clue_html": "The Iberian peninsula&apos;s second-longest river, it flows into the Mediterranean southwest of Barcelona",
+        "clue_text": "The Iberian peninsula's second-longest river, it flows into the Mediterranean southwest of Barcelona",
+        "correct_response": "the Ebro"
+    },
+    "clue_DJ_4_5": {
+        "id": "360176",
+        "clue_html": "In 2003 Liberians were happy that life was blah as this brutal leader turned over power to Moses Blah",
+        "clue_text": "In 2003 Liberians were happy that life was blah as this brutal leader turned over power to Moses Blah",
+        "correct_response": "(Charles) Taylor"
+    },
+    "clue_DJ_5_5": {
+        "id": "360194",
+        "clue_html": "From the Latin for &quot;fought to the death&quot;, this adjective is used of fighting with a group",
+        "clue_text": "From the Latin for \"fought to the death\", this adjective is used of fighting with a group",
+        "correct_response": "internecine"
+    },
+    "clue_DJ_6_5": {
+        "id": "360180",
+        "clue_html": "On &quot;The Carol Burnett Show&quot;, he was Eunice&apos;s husband Ed &amp; often got the giggles in sketches with Tim Conway",
+        "clue_text": "On \"The Carol Burnett Show\", he was Eunice's husband Ed & often got the giggles in sketches with Tim Conway",
+        "correct_response": "(Harvey) Korman"
+    },
+    "category_FJ_1": {
+        "category_name": "EUROPEAN ARTISTS",
+        "category_comments": ""
+    },
+    "clue_FJ": {
+        "clue_html": "His seldom-used last name reflects his birth near the mouth of a river that flows from the Alps to the North Sea",
+        "clue_text": "His seldom-used last name reflects his birth near the mouth of a river that flows from the Alps to the North Sea",
+        "correct_response": "Rembrandt van Rijn"
+    }
+}

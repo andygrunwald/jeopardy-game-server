@@ -1,0 +1,458 @@
+{
+    "id": "example-season-1/2019-02-27",
+    "game_title": "Show #7938 - Wednesday, February 27, 2019",
+    "game_comments": "2019 All-Star Games match 2, game 2.",
+    "game_complete": true,
+    "category_J_1": {
+        "category_name": "FAMILIAR BRANDS IN SONGS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_2": {
+        "category_name": "RECENT BOOKS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_3": {
+        "category_name": "SHOOTING BLANKS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_4": {
+        "category_name": "A WALK IN THE PARK",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_5": {
+        "category_name": "WHAT A CIRCUS!",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_6": {
+        "category_name": "4,3,4",
+        "category_comments": "(Alex: Each correct response will be a 3-word phrase.)",
+        "clue_count": 5
+    },
+    "clue_J_1_1": {
+        "id": "360211",
+        "clue_html": "Outkast instructed, &quot;Shake it like&quot; this; the company said, no, don&apos;t--that can actually hurt the image",
+        "clue_text": "Outkast instructed, \"Shake it like\" this; the company said, no, don't--that can actually hurt the image",
+        "correct_response": "a Polaroid picture"
+    },
+    "clue_J_2_1": {
+        "id": "360212",
+        "clue_html": "This actress&apos;s grandmother described Southern women as &quot;Whiskey in a Teacup&quot;, the title of her 2018 book",
+        "clue_text": "This actress's grandmother described Southern women as \"Whiskey in a Teacup\", the title of her 2018 book",
+        "correct_response": "(Reese) Witherspoon"
+    },
+    "clue_J_3_1": {
+        "id": "360214",
+        "triple_stumper": true,
+        "clue_html": "1998 U.S. &amp; British bombing of Iraq: <br>Operation ____ Fox",
+        "clue_text": "1998 U.S. & British bombing of Iraq: Operation ____ Fox",
+        "correct_response": "Desert Fox"
+    },
+    "clue_J_4_1": {
+        "id": "360216",
+        "clue_html": "Walk through the Vanderbilt Gate at 5th Avenue &amp; 105th Street to get to the conservatory garden in this park",
+        "clue_text": "Walk through the Vanderbilt Gate at 5th Avenue & 105th Street to get to the conservatory garden in this park",
+        "correct_response": "Central Park"
+    },
+    "clue_J_5_1": {
+        "id": "360219",
+        "clue_html": "This name for the one in charge of the big top is also an appropriate title for Sauron",
+        "clue_text": "This name for the one in charge of the big top is also an appropriate title for Sauron",
+        "correct_response": "the ringmaster"
+    },
+    "clue_J_6_1": {
+        "id": "360223",
+        "clue_html": "Emily Post says those who get these cards, typically mailed 4 to 6 months before the wedding, must get invitations",
+        "clue_text": "Emily Post says those who get these cards, typically mailed 4 to 6 months before the wedding, must get invitations",
+        "correct_response": "save the date"
+    },
+    "clue_J_1_2": {
+        "id": "360196",
+        "clue_html": "This Meghan Trainor tune says, &quot;I see the magazines working that Photoshop, we know that...ain&apos;t real&quot;",
+        "clue_text": "This Meghan Trainor tune says, \"I see the magazines working that Photoshop, we know that...ain't real\"",
+        "correct_response": "\"All About That Bass\""
+    },
+    "clue_J_2_2": {
+        "id": "360213",
+        "triple_stumper": true,
+        "clue_html": "This co-founded of CAA &amp; onetime Disney president wrote a very candid 2018 memoir",
+        "clue_text": "This co-founded of CAA & onetime Disney president wrote a very candid 2018 memoir",
+        "correct_response": "Michael Ovitz"
+    },
+    "clue_J_3_2": {
+        "id": "360215",
+        "clue_html": "1862 Confederate victory at a Blue Ridge sore spot: <br>Battle of ____ Ferry",
+        "clue_text": "1862 Confederate victory at a Blue Ridge sore spot: Battle of ____ Ferry",
+        "correct_response": "Harpers"
+    },
+    "clue_J_4_2": {
+        "id": "360217",
+        "clue_html": "Walk through Philly&apos;s Pennypack Park, not far from Temple University, &amp; you might see a great horned one of these birds",
+        "clue_text": "Walk through Philly's Pennypack Park, not far from Temple University, & you might see a great horned one of these birds",
+        "correct_response": "an owl"
+    },
+    "clue_J_5_2": {
+        "id": "360220",
+        "clue_html": "Mario Zacchini, AKA the &quot;human&quot; this, once said, &quot;Flying isn&apos;t the hard part, landing in the net is&quot;",
+        "clue_text": "Mario Zacchini, AKA the \"human\" this, once said, \"Flying isn't the hard part, landing in the net is\"",
+        "correct_response": "a cannonball"
+    },
+    "clue_J_6_2": {
+        "id": "360224",
+        "triple_stumper": true,
+        "clue_html": "McCrory&apos;s was this kind of store named for the coins spent there; John McCrorey dropped his &quot;E&quot; for cheaper signage",
+        "clue_text": "McCrory's was this kind of store named for the coins spent there; John McCrorey dropped his \"E\" for cheaper signage",
+        "correct_response": "a five and dime"
+    },
+    "clue_J_1_3": {
+        "id": "360197",
+        "clue_html": "In &quot;The Boys of Summer&quot;, Don Henley sings, &quot;You got that hair slicked back&quot; &amp; these Ray-Bans on",
+        "clue_text": "In \"The Boys of Summer\", Don Henley sings, \"You got that hair slicked back\" & these Ray-Bans on",
+        "correct_response": "Wayfarers"
+    },
+    "clue_J_2_3": {
+        "id": "360200",
+        "clue_html": "This author of &quot;The Kite Runner&quot; wrote &quot;Sea Prayer&quot; in response to the current refugee crisis",
+        "clue_text": "This author of \"The Kite Runner\" wrote \"Sea Prayer\" in response to the current refugee crisis",
+        "correct_response": "Khaled Hosseini"
+    },
+    "clue_J_3_3": {
+        "id": "360203",
+        "clue_html": "Battleship nicknamed &quot;Mighty Mo&quot;:<br>USS ____",
+        "clue_text": "Battleship nicknamed \"Mighty Mo\":USS ____",
+        "correct_response": "Missouri"
+    },
+    "clue_J_4_3": {
+        "id": "360218",
+        "clue_html": "You can walk up Hippie Hill in this alliterative San Francisco park",
+        "clue_text": "You can walk up Hippie Hill in this alliterative San Francisco park",
+        "correct_response": "Golden Gate Park"
+    },
+    "clue_J_5_3": {
+        "id": "360221",
+        "clue_html": "Caught by his brother, in 1982 Miguel Vasquez did the first quadruple somersault using this apparatus",
+        "clue_text": "Caught by his brother, in 1982 Miguel Vasquez did the first quadruple somersault using this apparatus",
+        "correct_response": "a trapeze"
+    },
+    "clue_J_6_3": {
+        "id": "360209",
+        "clue_html": "To ascertain one person&apos;s thoughts, as by telepathy",
+        "clue_text": "To ascertain one person's thoughts, as by telepathy",
+        "correct_response": "read one mind"
+    },
+    "clue_J_1_4": {
+        "id": "360198",
+        "triple_stumper": true,
+        "clue_html": "Grey Poupon &amp; Evian are featured in this No. 1 hit by Kendrick Lamar",
+        "clue_text": "Grey Poupon & Evian are featured in this No. 1 hit by Kendrick Lamar",
+        "correct_response": "\"HUMBLE.\""
+    },
+    "clue_J_2_4": {
+        "id": "360201",
+        "daily_double": true,
+        "clue_html": "This 3-named historian studied Lincoln, Teddy Roosevelt, FDR &amp; LBJ for her book &quot;Leadership in Turbulent Times&quot;",
+        "clue_text": "This 3-named historian studied Lincoln, Teddy Roosevelt, FDR & LBJ for her book \"Leadership in Turbulent Times\"",
+        "correct_response": "Doris Kearns Goodwin"
+    },
+    "clue_J_3_4": {
+        "id": "360204",
+        "clue_html": "1904-05 fight in the Far East: <br>Russo-____ War",
+        "clue_text": "1904-05 fight in the Far East: Russo-____ War",
+        "correct_response": "Japanese"
+    },
+    "clue_J_4_4": {
+        "id": "360206",
+        "triple_stumper": true,
+        "clue_html": "30-mile Wildwood Trail is in this northwest city&apos;s Forest Park; William Clark visited when it was just forest",
+        "clue_text": "30-mile Wildwood Trail is in this northwest city's Forest Park; William Clark visited when it was just forest",
+        "correct_response": "Portland, Oregon"
+    },
+    "clue_J_5_4": {
+        "id": "360222",
+        "clue_html": "Pierrot &amp; grotesque are 2 of the white-faced these you may see at the circus",
+        "clue_text": "Pierrot & grotesque are 2 of the white-faced these you may see at the circus",
+        "correct_response": "a clown"
+    },
+    "clue_J_6_4": {
+        "id": "360225",
+        "clue_html": "Don&apos;t do this, meaning to put the important part of a news story way down in the article",
+        "clue_text": "Don't do this, meaning to put the important part of a news story way down in the article",
+        "correct_response": "bury the lede"
+    },
+    "clue_J_1_5": {
+        "id": "360199",
+        "clue_html": "Lorde was still a teenager when she wrote &quot;Royals&quot;, which namechecks Cristal &amp; this French vodka",
+        "clue_text": "Lorde was still a teenager when she wrote \"Royals\", which namechecks Cristal & this French vodka",
+        "correct_response": "Grey Goose"
+    },
+    "clue_J_2_5": {
+        "id": "360202",
+        "triple_stumper": true,
+        "clue_html": "He wrote &quot;Little Children&quot;, covered high school in &quot;Election&quot;, then gave us &quot;Mrs. Fletcher&quot;, whose son is off to college",
+        "clue_text": "He wrote \"Little Children\", covered high school in \"Election\", then gave us \"Mrs. Fletcher\", whose son is off to college",
+        "correct_response": "Tom Perotta"
+    },
+    "clue_J_3_5": {
+        "id": "360205",
+        "clue_html": "3-winged mount of the Red Baron: <br>Fokker ____",
+        "clue_text": "3-winged mount of the Red Baron: Fokker ____",
+        "correct_response": "triplane"
+    },
+    "clue_J_4_5": {
+        "id": "360207",
+        "clue_html": "Stop to enjoy the landscaping of Dumbarton Oaks park in this city",
+        "clue_text": "Stop to enjoy the landscaping of Dumbarton Oaks park in this city",
+        "correct_response": "D.C., or Washington, D.C."
+    },
+    "clue_J_5_5": {
+        "id": "360208",
+        "clue_html": "In 1902 Will Rogers joined Texas Jack&apos;s American circus as a bronco rider &amp; trick artist using these",
+        "clue_text": "In 1902 Will Rogers joined Texas Jack's American circus as a bronco rider & trick artist using these",
+        "correct_response": "a lasso"
+    },
+    "clue_J_6_5": {
+        "id": "360210",
+        "clue_html": "A body part is in this expression meaning to pay expenses someone has run up",
+        "clue_text": "A body part is in this expression meaning to pay expenses someone has run up",
+        "correct_response": "foot the bill"
+    },
+    "category_DJ_1": {
+        "category_name": "A LONG, LONG TIME AGO",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_2": {
+        "category_name": "ART & ARTISTS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_3": {
+        "category_name": "AFRICAN-AMERICAN ACTRESSES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_4": {
+        "category_name": "INTERNATIONAL DISPUTES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_5": {
+        "category_name": "DATES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_6": {
+        "category_name": "CROSSWORD CLUES \"V\"",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_DJ_1_1": {
+        "id": "360226",
+        "clue_html": "This always frozen subsoil started forming around the time of Earth&apos;s first glaciation, 2 billion-plus years ago",
+        "clue_text": "This always frozen subsoil started forming around the time of Earth's first glaciation, 2 billion-plus years ago",
+        "correct_response": "permafrost"
+    },
+    "clue_DJ_2_1": {
+        "id": "360231",
+        "clue_html": "A first century B.C. writer said of sculptor Praxiteles that he imbued this material with the passions of the soul",
+        "clue_text": "A first century B.C. writer said of sculptor Praxiteles that he imbued this material with the passions of the soul",
+        "correct_response": "marble"
+    },
+    "clue_DJ_3_1": {
+        "id": "360236",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-27_DJ_27.jpg\" target=\"_blank\">She</a>&apos;s played a Desperate Housewife &amp; the scheming Wilhemina on &quot;Ugly Betty&quot;",
+        "clue_text": "She's played a Desperate Housewife & the scheming Wilhemina on \"Ugly Betty\"",
+        "correct_response": "(Vanessa) Williams",
+        "media": [
+            "http://localhost:3000/media/2019-02-27_DJ_27.jpg"
+        ]
+    },
+    "clue_DJ_4_1": {
+        "id": "360241",
+        "clue_html": "The 1993 Cherbourg dispute was between Britain &amp; France over fishing rights in &amp; around this island group",
+        "clue_text": "The 1993 Cherbourg dispute was between Britain & France over fishing rights in & around this island group",
+        "correct_response": "the Channel Islands"
+    },
+    "clue_DJ_5_1": {
+        "id": "360246",
+        "clue_html": "1918 date when WWI combat officially ceased",
+        "clue_text": "1918 date when WWI combat officially ceased",
+        "correct_response": "November 11"
+    },
+    "clue_DJ_6_1": {
+        "id": "360251",
+        "clue_html": "Part of a bride&apos;s ensemble<br>(4)",
+        "clue_text": "Part of a bride's ensemble(4)",
+        "correct_response": "her veil"
+    },
+    "clue_DJ_1_2": {
+        "id": "360227",
+        "clue_html": "Erosion by glaciers created the lakes of these mountains, including Lake Garda &amp; Lake Lucerne",
+        "clue_text": "Erosion by glaciers created the lakes of these mountains, including Lake Garda & Lake Lucerne",
+        "correct_response": "the Alps"
+    },
+    "clue_DJ_2_2": {
+        "id": "360232",
+        "clue_html": "Last name of the family that includes 3 generations of artists--illustrator N.C., Andrew &amp; Jamie",
+        "clue_text": "Last name of the family that includes 3 generations of artists--illustrator N.C., Andrew & Jamie",
+        "correct_response": "Wyeth"
+    },
+    "clue_DJ_3_2": {
+        "id": "360237",
+        "clue_html": "Jennifer Hudson, Beyonce &amp; Anika Noni Rose are the singing trio in this film adaptation of a Broadway show",
+        "clue_text": "Jennifer Hudson, Beyonce & Anika Noni Rose are the singing trio in this film adaptation of a Broadway show",
+        "correct_response": "Dreamgirls"
+    },
+    "clue_DJ_4_2": {
+        "id": "360242",
+        "daily_double": true,
+        "clue_html": "The self-proclaimed Saharan Arab Democratic Republic disputes the territory of Western Sahara with this nation",
+        "clue_text": "The self-proclaimed Saharan Arab Democratic Republic disputes the territory of Western Sahara with this nation",
+        "correct_response": "Morocco"
+    },
+    "clue_DJ_5_2": {
+        "id": "360247",
+        "clue_html": "2018 date on which <a href=\"http://www.j-archive.com/media/2019-02-27_DJ_09.jpg\" target=\"_blank\">Mark Hamill</a>, shamrock &amp; all, was the guest of honor at Dublin&apos;s big parade",
+        "clue_text": "2018 date on which Mark Hamill, shamrock & all, was the guest of honor at Dublin's big parade",
+        "correct_response": "March 17th",
+        "media": [
+            "http://localhost:3000/media/2019-02-27_DJ_09.jpg"
+        ]
+    },
+    "clue_DJ_6_2": {
+        "id": "360252",
+        "clue_html": "The heart, lungs, liver, kidneys, etc.<br>(7)",
+        "clue_text": "The heart, lungs, liver, kidneys, etc.(7)",
+        "correct_response": "viscera"
+    },
+    "clue_DJ_1_3": {
+        "id": "360228",
+        "triple_stumper": true,
+        "clue_html": "Don&apos;t call Ayla in &quot;The Clan of the Cave Bear&quot; a Neanderthal--she&apos;s this kind of human that emerged later, around 40,000 B.C.",
+        "clue_text": "Don't call Ayla in \"The Clan of the Cave Bear\" a Neanderthal--she's this kind of human that emerged later, around 40,000 B.C.",
+        "correct_response": "a Cro Magnon"
+    },
+    "clue_DJ_2_3": {
+        "id": "360233",
+        "clue_html": "He worked with Giorgione on frescos in 1508, then took over as Venice&apos;s greatest 1-named painter",
+        "clue_text": "He worked with Giorgione on frescos in 1508, then took over as Venice's greatest 1-named painter",
+        "correct_response": "Titian"
+    },
+    "clue_DJ_3_3": {
+        "id": "360238",
+        "clue_html": "The mom of TV&apos;s Huxtable family, in 2004 <a href=\"http://www.j-archive.com/media/2019-02-27_DJ_07.jpg\" target=\"_blank\">she</a> became the first black actress to win the Tony for a leading role in a play",
+        "clue_text": "The mom of TV's Huxtable family, in 2004 she became the first black actress to win the Tony for a leading role in a play",
+        "correct_response": "Phylicia Rashad",
+        "media": [
+            "http://localhost:3000/media/2019-02-27_DJ_07.jpg"
+        ]
+    },
+    "clue_DJ_4_3": {
+        "id": "360243",
+        "clue_html": "The Abyssinia crisis of 1935-36 was a conflict between these 2 nations, one in Africa &amp; one in Europe",
+        "clue_text": "The Abyssinia crisis of 1935-36 was a conflict between these 2 nations, one in Africa & one in Europe",
+        "correct_response": "Italy and Ethiopia"
+    },
+    "clue_DJ_5_3": {
+        "id": "360248",
+        "clue_html": "Until it was moved up to January 20, this was the official presidential inauguration date",
+        "clue_text": "Until it was moved up to January 20, this was the official presidential inauguration date",
+        "correct_response": "March 4th"
+    },
+    "clue_DJ_6_3": {
+        "id": "360253",
+        "clue_html": "Ear-splitting World Cup noisemaker<br>(8)",
+        "clue_text": "Ear-splitting World Cup noisemaker(8)",
+        "correct_response": "a vuvuzela"
+    },
+    "clue_DJ_1_4": {
+        "id": "360229",
+        "clue_html": "Pangea, one of these, formed around 300 million &amp; broke up around 200 million years ago",
+        "clue_text": "Pangea, one of these, formed around 300 million & broke up around 200 million years ago",
+        "correct_response": "a supercontinent"
+    },
+    "clue_DJ_2_4": {
+        "id": "360234",
+        "clue_html": "Picasso saw himself &amp; this painter as the Wright Brothers of Cubism &amp; even called him &quot;Wilbur&quot;",
+        "clue_text": "Picasso saw himself & this painter as the Wright Brothers of Cubism & even called him \"Wilbur\"",
+        "correct_response": "Braque"
+    },
+    "clue_DJ_3_4": {
+        "id": "360239",
+        "clue_html": "Maidie Norman, the maid who got offed by Bette Davis in this 1962 film, rewrote her lines so they wouldn&apos;t sound so stereotypical",
+        "clue_text": "Maidie Norman, the maid who got offed by Bette Davis in this 1962 film, rewrote her lines so they wouldn't sound so stereotypical",
+        "correct_response": "What Ever Happened to Baby Jane?"
+    },
+    "clue_DJ_4_4": {
+        "id": "360244",
+        "clue_html": "A 2012 Japan Times editorial accused China of engaging in this force-based &quot;diplomacy&quot; named for a type of warship",
+        "clue_text": "A 2012 Japan Times editorial accused China of engaging in this force-based \"diplomacy\" named for a type of warship",
+        "correct_response": "gunboat"
+    },
+    "clue_DJ_5_4": {
+        "id": "360249",
+        "clue_html": "1926 date on which Houdini died",
+        "clue_text": "1926 date on which Houdini died",
+        "correct_response": "October 31st"
+    },
+    "clue_DJ_6_4": {
+        "id": "360254",
+        "clue_html": "The left-hand page of a book or manuscript<br>(5)",
+        "clue_text": "The left-hand page of a book or manuscript(5)",
+        "correct_response": "the verso"
+    },
+    "clue_DJ_1_5": {
+        "id": "360230",
+        "clue_html": "This dinosaur of 100 million+ years ago got its name because its teeth resembled those of a lizard that&apos;s still around",
+        "clue_text": "This dinosaur of 100 million+ years ago got its name because its teeth resembled those of a lizard that's still around",
+        "correct_response": "an iguanodon"
+    },
+    "clue_DJ_2_5": {
+        "id": "360235",
+        "daily_double": true,
+        "clue_html": "In 1504 Durer tried to show perfect human forms in this pair, each holding a tree branch",
+        "clue_text": "In 1504 Durer tried to show perfect human forms in this pair, each holding a tree branch",
+        "correct_response": "Adam and Eve"
+    },
+    "clue_DJ_3_5": {
+        "id": "360240",
+        "clue_html": "Awarded an honorary Oscar in 2018, <a href=\"http://www.j-archive.com/media/2019-02-27_DJ_08.jpg\" target=\"_blank\">she</a> has a 6-decade acting career that includes &quot;Roots&quot; &amp; &quot;The Help&quot;",
+        "clue_text": "Awarded an honorary Oscar in 2018, she has a 6-decade acting career that includes \"Roots\" & \"The Help\"",
+        "correct_response": "Cicely Tyson",
+        "media": [
+            "http://localhost:3000/media/2019-02-27_DJ_08.jpg"
+        ]
+    },
+    "clue_DJ_4_5": {
+        "id": "360245",
+        "clue_html": "Falklands foes Argentina &amp; the U.K. also bicker over the South these Islands, an old name for far-off Hawaii",
+        "clue_text": "Falklands foes Argentina & the U.K. also bicker over the South these Islands, an old name for far-off Hawaii",
+        "correct_response": "the South Sandwich Islands"
+    },
+    "clue_DJ_5_5": {
+        "id": "360250",
+        "triple_stumper": true,
+        "clue_html": "The Dominion of Canada was proclaimed on this date in 1867",
+        "clue_text": "The Dominion of Canada was proclaimed on this date in 1867",
+        "correct_response": "July 1st"
+    },
+    "clue_DJ_6_5": {
+        "id": "360255",
+        "clue_html": "An early bike or trike<br>(10)",
+        "clue_text": "An early bike or trike(10)",
+        "correct_response": "a velocipede"
+    },
+    "category_FJ_1": {
+        "category_name": "20th CENTURY HISTORY",
+        "category_comments": ""
+    },
+    "clue_FJ": {
+        "clue_html": "Interpreting for Vaclav Havel, future ambassador Rita Klimova gave us this phrase for a smooth change of government",
+        "clue_text": "Interpreting for Vaclav Havel, future ambassador Rita Klimova gave us this phrase for a smooth change of government",
+        "correct_response": "the velvet revolution"
+    }
+}

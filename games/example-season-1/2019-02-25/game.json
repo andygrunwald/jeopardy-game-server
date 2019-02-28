@@ -1,0 +1,220 @@
+{
+    "id": "example-season-1/2019-02-25",
+    "game_title": "Show #7936 - Monday, February 25, 2019",
+    "game_comments": "2019 All-Star Games match 2, game 1, Jeopardy! Round only.",
+    "game_complete": false,
+    "category_J_1": {
+        "category_name": "THE STORE WAS CLOSED!",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_2": {
+        "category_name": "GREAT NICKNAMES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_3": {
+        "category_name": "ANIMAL TALK",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_4": {
+        "category_name": "CLASSIC MOVIES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_5": {
+        "category_name": "RANKS & TITLES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_6": {
+        "category_name": "BOOK OF THE CENTURY",
+        "category_comments": "(Alex: The correct response will be naming the century.)",
+        "clue_count": 5
+    },
+    "clue_J_1_1": {
+        "id": "360151",
+        "clue_html": "It&apos;s what the now-departed 4,000 Fotomats promised to do in just 1 day",
+        "clue_text": "It's what the now-departed 4,000 Fotomats promised to do in just 1 day",
+        "correct_response": "develop your film"
+    },
+    "clue_J_2_1": {
+        "id": "360136",
+        "clue_html": "This president was &quot;The Great Emancipator&quot;",
+        "clue_text": "This president was \"The Great Emancipator\"",
+        "correct_response": "Lincoln"
+    },
+    "clue_J_3_1": {
+        "id": "360156",
+        "clue_html": "Be careful, that person could be one of these &quot;in sheep&apos;s clothing&quot;",
+        "clue_text": "Be careful, that person could be one of these \"in sheep's clothing\"",
+        "correct_response": "a wolf"
+    },
+    "clue_J_4_1": {
+        "id": "360141",
+        "clue_html": "It&apos;s the first rule of Fight Club",
+        "clue_text": "It's the first rule of Fight Club",
+        "correct_response": "you do not talk about Fight Club"
+    },
+    "clue_J_5_1": {
+        "id": "360146",
+        "clue_html": "This high-up military rank comes from Arabic for &quot;emir of&quot;, as in &quot;emir of the seas&quot;",
+        "clue_text": "This high-up military rank comes from Arabic for \"emir of\", as in \"emir of the seas\"",
+        "correct_response": "admiral"
+    },
+    "clue_J_6_1": {
+        "id": "360162",
+        "clue_html": "&quot;Jude the Obscure&quot;; remember to let it into your heart",
+        "clue_text": "\"Jude the Obscure\"; remember to let it into your heart",
+        "correct_response": "the 19th century"
+    },
+    "clue_J_1_2": {
+        "id": "360152",
+        "clue_html": "Colin Hanks&apos; documentary &quot;All Things Must Pass&quot; tells about the &quot;Rise and Fall&quot; of this iconic record store chain",
+        "clue_text": "Colin Hanks' documentary \"All Things Must Pass\" tells about the \"Rise and Fall\" of this iconic record store chain",
+        "correct_response": "Tower"
+    },
+    "clue_J_2_2": {
+        "id": "360137",
+        "clue_html": "This appellation bestowed on Gandhi means &quot;great soul&quot;",
+        "clue_text": "This appellation bestowed on Gandhi means \"great soul\"",
+        "correct_response": "Mahatma"
+    },
+    "clue_J_3_2": {
+        "id": "360157",
+        "clue_html": "This plumbing tool is a type of auger",
+        "clue_text": "This plumbing tool is a type of auger",
+        "correct_response": "a snake"
+    },
+    "clue_J_4_2": {
+        "id": "360142",
+        "clue_html": "Crime film that features Gene Hackman as Buck Barrow",
+        "clue_text": "Crime film that features Gene Hackman as Buck Barrow",
+        "correct_response": "Bonnie and Clyde"
+    },
+    "clue_J_5_2": {
+        "id": "360147",
+        "clue_html": "In 2006 the Chicago Symphony Orchestra gave Pierre Boulez the title conductor this Latin word meaning &quot;retired&quot;",
+        "clue_text": "In 2006 the Chicago Symphony Orchestra gave Pierre Boulez the title conductor this Latin word meaning \"retired\"",
+        "correct_response": "emeritus"
+    },
+    "clue_J_6_2": {
+        "id": "360163",
+        "clue_html": "Saddle up for &quot;Don Quixote&quot;",
+        "clue_text": "Saddle up for \"Don Quixote\"",
+        "correct_response": "the 17th (or the 1600s)"
+    },
+    "clue_J_1_3": {
+        "id": "360153",
+        "clue_html": "Thom McAn lived on as a brand name on these sold at Sears &amp; Kmart",
+        "clue_text": "Thom McAn lived on as a brand name on these sold at Sears & Kmart",
+        "correct_response": "shoesIn"
+    },
+    "clue_J_2_3": {
+        "id": "360138",
+        "clue_html": "This golfer is &quot;The Great White Shark&quot; &amp; his website is shark.com",
+        "clue_text": "This golfer is \"The Great White Shark\" & his website is shark.com",
+        "correct_response": "Greg Norman"
+    },
+    "clue_J_3_3": {
+        "id": "360158",
+        "clue_html": "It&apos;s slang for an indoor antenna that typically sat on top of the TV",
+        "clue_text": "It's slang for an indoor antenna that typically sat on top of the TV",
+        "correct_response": "rabbit ears"
+    },
+    "clue_J_4_3": {
+        "id": "360143",
+        "clue_html": "This Dario Argento horror classic about a dance studio that&apos;s really a coven as remade in 2018",
+        "clue_text": "This Dario Argento horror classic about a dance studio that's really a coven as remade in 2018",
+        "correct_response": "Suspiria"
+    },
+    "clue_J_5_3": {
+        "id": "360148",
+        "clue_html": "This adjective is used in the British House of Commons during debate, as in &quot;the ____ minister for Pudsey&quot;",
+        "clue_text": "This adjective is used in the British House of Commons during debate, as in \"the ____ minister for Pudsey\"",
+        "correct_response": "honourable"
+    },
+    "clue_J_6_3": {
+        "id": "360150",
+        "clue_html": "&quot;The History of Tom Jones, a Foundling&quot;, not a Welsh singer",
+        "clue_text": "\"The History of Tom Jones, a Foundling\", not a Welsh singer",
+        "correct_response": "the 18th century (or the 1700s)"
+    },
+    "clue_J_1_4": {
+        "id": "360154",
+        "clue_html": "In 2015 this beloved 3-level toy store on Fifth Avenue closed its doors; in 2018 a new location opened",
+        "clue_text": "In 2015 this beloved 3-level toy store on Fifth Avenue closed its doors; in 2018 a new location opened",
+        "correct_response": "FAO Schwarz"
+    },
+    "clue_J_2_4": {
+        "id": "360139",
+        "clue_html": "Alliteration alert! The first pope of this name, from 590 to 604, was &quot;the Great&quot;",
+        "clue_text": "Alliteration alert! The first pope of this name, from 590 to 604, was \"the Great\"",
+        "correct_response": "Gregory"
+    },
+    "clue_J_3_4": {
+        "id": "360159",
+        "clue_html": "Maybe you&apos;re a canvasback if you start a new activity &amp; &quot;take to it like&quot; this",
+        "clue_text": "Maybe you're a canvasback if you start a new activity & \"take to it like\" this",
+        "correct_response": "duck to water"
+    },
+    "clue_J_4_4": {
+        "id": "360144",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-25_J_02.jpg\" target=\"_blank\">Here</a>&apos;s this silent film comedy star in &quot;Safety Last!&quot;",
+        "clue_text": "Here's this silent film comedy star in \"Safety Last!\"",
+        "correct_response": "Harold Lloyd",
+        "media": [
+            "http://localhost:3000/media/2019-02-25_J_02.jpg"
+        ]
+    },
+    "clue_J_5_4": {
+        "id": "360149",
+        "clue_html": "This can be the title of a Hindu priest or the job description for a political commentator",
+        "clue_text": "This can be the title of a Hindu priest or the job description for a political commentator",
+        "correct_response": "pundit"
+    },
+    "clue_J_6_4": {
+        "id": "360164",
+        "clue_html": "Johannes Gutenberg didn&apos;t write it, but his Bible...huge",
+        "clue_text": "Johannes Gutenberg didn't write it, but his Bible...huge",
+        "correct_response": "the 15th"
+    },
+    "clue_J_1_5": {
+        "id": "360155",
+        "clue_html": "Though its stores closed in 2008, you can still purchase its high-tech products, gadgets &amp; air purifiers online",
+        "clue_text": "Though its stores closed in 2008, you can still purchase its high-tech products, gadgets & air purifiers online",
+        "correct_response": "Sharper Image"
+    },
+    "clue_J_2_5": {
+        "id": "360140",
+        "daily_double": true,
+        "clue_html": "In his heyday this author was &quot;The Great Unknown&quot;, having published his &quot;Waverley&quot; novels anonymously",
+        "clue_text": "In his heyday this author was \"The Great Unknown\", having published his \"Waverley\" novels anonymously",
+        "correct_response": "Sir Walter Scott"
+    },
+    "clue_J_3_5": {
+        "id": "360160",
+        "clue_html": "Weighing several tons, it&apos;s obvious to everyone present, but no one has the courage to talk about it",
+        "clue_text": "Weighing several tons, it's obvious to everyone present, but no one has the courage to talk about it",
+        "correct_response": "the elephant in the room"
+    },
+    "clue_J_4_5": {
+        "id": "360145",
+        "clue_html": "In it, reporter Rosalind Russell tells Cary Grant, &quot;I wouldn&apos;t cover the burning of Rome for you if they were just lighting it up&quot;",
+        "clue_text": "In it, reporter Rosalind Russell tells Cary Grant, \"I wouldn't cover the burning of Rome for you if they were just lighting it up\"",
+        "correct_response": "His Girl Friday"
+    },
+    "clue_J_5_5": {
+        "id": "360161",
+        "clue_html": "In 1853 the shogun of Japan called himself &quot;taikun&quot; when meeting this American; it eventually became our word tycoon",
+        "clue_text": "In 1853 the shogun of Japan called himself \"taikun\" when meeting this American; it eventually became our word tycoon",
+        "correct_response": "(Matthew) Perry"
+    },
+    "clue_J_6_5": {
+        "id": "360165",
+        "clue_html": "&quot;The Canterbury Tales&quot; start to get told",
+        "clue_text": "\"The Canterbury Tales\" start to get told",
+        "correct_response": "the 14th"
+    }
+}

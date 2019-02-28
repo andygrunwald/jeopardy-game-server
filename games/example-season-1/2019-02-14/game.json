@@ -1,0 +1,473 @@
+{
+    "id": "example-season-1/2019-02-14",
+    "game_title": "Show #7929 - Thursday, February 14, 2019",
+    "game_comments": "",
+    "game_complete": true,
+    "category_J_1": {
+        "category_name": "THE TOP 25 ROMANTIC COMEDIES",
+        "category_comments": "(Alex: According to a list put together by Vanity Fair.)",
+        "clue_count": 5
+    },
+    "category_J_2": {
+        "category_name": "QUOTES OF NOTE",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_3": {
+        "category_name": "BRANDIMALS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_4": {
+        "category_name": "MOUNTAINS & VALLEYS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_5": {
+        "category_name": "\"URRY\" UP",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_6": {
+        "category_name": "& WAIT TABLES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_J_1_1": {
+        "id": "359675",
+        "clue_html": "He stars in No. 4, No. 7 &amp; No. 16: <br>&quot;Bridget Jones&apos;s Diary&quot;, &quot;Notting Hill&quot; &amp; &quot;Four Weddings and a Funeral&quot;",
+        "clue_text": "He stars in No. 4, No. 7 & No. 16: \"Bridget Jones's Diary\", \"Notting Hill\" & \"Four Weddings and a Funeral\"",
+        "correct_response": "Hugh Grant"
+    },
+    "clue_J_2_1": {
+        "id": "359690",
+        "clue_html": "This female Muppet once wisely quipped, &quot;Never eat more than you can lift&quot;",
+        "clue_text": "This female Muppet once wisely quipped, \"Never eat more than you can lift\"",
+        "correct_response": "Miss Piggy"
+    },
+    "clue_J_3_1": {
+        "id": "359682",
+        "clue_html": "No bull--we&apos;re stuck on this brand whose mascot is seen <a href=\"http://www.j-archive.com/media/2019-02-14_J_11.jpg\" target=\"_blank\">here</a>",
+        "clue_text": "No bull--we're stuck on this brand whose mascot is seen here",
+        "correct_response": "Elmer\\'s Glue",
+        "media": [
+            "http://localhost:3000/media/2019-02-14_J_11.jpg"
+        ]
+    },
+    "clue_J_4_1": {
+        "id": "359684",
+        "clue_html": "Glencoe Valley in the highlands of this U.K. country is a paradise for hikers &amp; climbers",
+        "clue_text": "Glencoe Valley in the highlands of this U.K. country is a paradise for hikers & climbers",
+        "correct_response": "Scotland"
+    },
+    "clue_J_5_1": {
+        "id": "359689",
+        "clue_html": "In the West the name of this humble powder describes many Indian dishes where it&apos;s just one ingredient",
+        "clue_text": "In the West the name of this humble powder describes many Indian dishes where it's just one ingredient",
+        "correct_response": "curry"
+    },
+    "clue_J_6_1": {
+        "id": "359700",
+        "clue_html": "Put patrons in a good mood with an amuse-bouche, a small type of this course",
+        "clue_text": "Put patrons in a good mood with an amuse-bouche, a small type of this course",
+        "correct_response": "an appetizer"
+    },
+    "clue_J_1_2": {
+        "id": "359676",
+        "clue_html": "Of this 1995 film starring Alicia Silverstone &amp; Paul Rudd, Vanity Fair asks, &quot;Has there ever been a better teen comedy? As if&quot;",
+        "clue_text": "Of this 1995 film starring Alicia Silverstone & Paul Rudd, Vanity Fair asks, \"Has there ever been a better teen comedy? As if\"",
+        "correct_response": "Clueless"
+    },
+    "clue_J_2_2": {
+        "id": "359691",
+        "clue_html": "Winston Churchill opined that this European nation was &quot;always either at your throat or your feet&quot;",
+        "clue_text": "Winston Churchill opined that this European nation was \"always either at your throat or your feet\"",
+        "correct_response": "Germany"
+    },
+    "clue_J_3_2": {
+        "id": "359683",
+        "clue_html": "A symbol of good fortune, a bat adorns bottled of this brand of rum",
+        "clue_text": "A symbol of good fortune, a bat adorns bottled of this brand of rum",
+        "correct_response": "Bacardi"
+    },
+    "clue_J_4_2": {
+        "id": "359685",
+        "clue_html": "First class vineyards like Stags&apos; Leap make their home in a valley in this northern California county",
+        "clue_text": "First class vineyards like Stags' Leap make their home in a valley in this northern California county",
+        "correct_response": "Napa"
+    },
+    "clue_J_5_2": {
+        "id": "359696",
+        "clue_html": "A mouse might tell his doctor, &quot;I&apos;m pretty active--I don&apos;t work out but I do&quot; do this pretty regularly",
+        "clue_text": "A mouse might tell his doctor, \"I'm pretty active--I don't work out but I do\" do this pretty regularly",
+        "correct_response": "scurry"
+    },
+    "clue_J_6_2": {
+        "id": "359701",
+        "clue_html": "We&apos;re out of the item you wanted, so it has been given this 2-digit designation--pick something else",
+        "clue_text": "We're out of the item you wanted, so it has been given this 2-digit designation--pick something else",
+        "correct_response": "86"
+    },
+    "clue_J_1_3": {
+        "id": "359677",
+        "clue_html": "Even the Oscars fell in love with this film, with wins for Cher, Olympia Dukakis &amp; writer John Patrick Shanley",
+        "clue_text": "Even the Oscars fell in love with this film, with wins for Cher, Olympia Dukakis & writer John Patrick Shanley",
+        "correct_response": "Moonstruck"
+    },
+    "clue_J_2_3": {
+        "id": "359692",
+        "clue_html": "In a much-anticipated 2013 TV interview, this cyclist apologized, saying, &quot;I&apos;m a flawed character&quot;",
+        "clue_text": "In a much-anticipated 2013 TV interview, this cyclist apologized, saying, \"I'm a flawed character\"",
+        "correct_response": "Lance Armstrong"
+    },
+    "clue_J_3_3": {
+        "id": "359693",
+        "clue_html": "The critter seen <a href=\"http://www.j-archive.com/media/2019-02-14_J_16.jpg\" target=\"_blank\">here</a> is integral to this casual shoe brand",
+        "clue_text": "The critter seen here is integral to this casual shoe brand",
+        "correct_response": "Crocs",
+        "media": [
+            "http://localhost:3000/media/2019-02-14_J_16.jpg"
+        ]
+    },
+    "clue_J_4_3": {
+        "id": "359686",
+        "clue_html": "Geologically, New York&apos;s <a href=\"http://www.j-archive.com/media/2019-02-14_J_08.jpg\" target=\"_blank\">Catskills</a> are a part of <a href=\"http://www.j-archive.com/media/2019-02-14_J_08a.jpg\" target=\"_blank\">this</a> mountain chain that stretches from Alabama up into Canada",
+        "clue_text": "Geologically, New York's Catskills are a part of this mountain chain that stretches from Alabama up into Canada",
+        "correct_response": "the Appalachians",
+        "media": [
+            "http://localhost:3000/media/2019-02-14_J_08.jpg",
+            "http://localhost:3000/media/2019-02-14_J_08a.jpg"
+        ]
+    },
+    "clue_J_5_3": {
+        "id": "359697",
+        "clue_html": "A singer &amp; &quot;American Idol&quot; judge named her cat Kitty this",
+        "clue_text": "A singer & \"American Idol\" judge named her cat Kitty this",
+        "correct_response": "Purry"
+    },
+    "clue_J_6_3": {
+        "id": "359702",
+        "clue_html": "This French phrase means a complete meal with a set cost",
+        "clue_text": "This French phrase means a complete meal with a set cost",
+        "correct_response": "prix fixe"
+    },
+    "clue_J_1_4": {
+        "id": "359678",
+        "clue_html": "The list kicks off at No. 25 with this film that revealed the joys of Nia Vardalos &amp; the secret powers of Windex",
+        "clue_text": "The list kicks off at No. 25 with this film that revealed the joys of Nia Vardalos & the secret powers of Windex",
+        "correct_response": "My Big Fat Greek Wedding"
+    },
+    "clue_J_2_4": {
+        "id": "359680",
+        "daily_double": true,
+        "clue_html": "Napoleon was heard to say that this, which he was part of, is merely &quot;a fable agreed upon&quot;",
+        "clue_text": "Napoleon was heard to say that this, which he was part of, is merely \"a fable agreed upon\"",
+        "correct_response": "history"
+    },
+    "clue_J_3_4": {
+        "id": "359694",
+        "clue_html": "Since 1989 this elegant bird has been the logo of Swarovski crystal",
+        "clue_text": "Since 1989 this elegant bird has been the logo of Swarovski crystal",
+        "correct_response": "a swan"
+    },
+    "clue_J_4_4": {
+        "id": "359687",
+        "clue_html": "Mount Nebo, said to be where Moses died, overlooks this river&apos;s valley",
+        "clue_text": "Mount Nebo, said to be where Moses died, overlooks this river's valley",
+        "correct_response": "the Jordan"
+    },
+    "clue_J_5_4": {
+        "id": "359698",
+        "clue_html": "Comedian Mitch Hedberg said, &quot;I think Bigfoot is&quot; this. &quot;It&apos;s not the photographer&apos;s fault&quot;",
+        "clue_text": "Comedian Mitch Hedberg said, \"I think Bigfoot is\" this. \"It's not the photographer's fault\"",
+        "correct_response": "blurry"
+    },
+    "clue_J_6_4": {
+        "id": "359703",
+        "clue_html": "You can bring your own wine, but we&apos;ll charge this fee, named for an element of the bottle",
+        "clue_text": "You can bring your own wine, but we'll charge this fee, named for an element of the bottle",
+        "correct_response": "corkage fee"
+    },
+    "clue_J_1_5": {
+        "id": "359679",
+        "clue_html": "VF called this 2001 film starring Audrey Tatou &quot;French whimsy&quot;",
+        "clue_text": "VF called this 2001 film starring Audrey Tatou \"French whimsy\"",
+        "correct_response": "Amelie"
+    },
+    "clue_J_2_5": {
+        "id": "359681",
+        "clue_html": "&quot;A jail is just a nut with a worm in it. The worm can always get out&quot;, said this man who escaped in March 1934 &amp; died in July",
+        "clue_text": "\"A jail is just a nut with a worm in it. The worm can always get out\", said this man who escaped in March 1934 & died in July",
+        "correct_response": "John Dillinger"
+    },
+    "clue_J_3_5": {
+        "id": "359695",
+        "triple_stumper": true,
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-14_J_18.jpg\" target=\"_blank\">Here</a>&apos;s the logo of this travel site",
+        "clue_text": "Here's the logo of this travel site",
+        "correct_response": "TripAdvisor.com",
+        "media": [
+            "http://localhost:3000/media/2019-02-14_J_18.jpg"
+        ]
+    },
+    "clue_J_4_5": {
+        "id": "359688",
+        "clue_html": "In 1965, 6 years after work began, an automotive tunnel named for this mountain connected France &amp; Italy",
+        "clue_text": "In 1965, 6 years after work began, an automotive tunnel named for this mountain connected France & Italy",
+        "correct_response": "Mont Blanc"
+    },
+    "clue_J_5_5": {
+        "id": "359699",
+        "clue_html": "A mix of solid particles &amp; liquid, <a href=\"http://www.j-archive.com/media/2019-02-14_J_22.jpg\" target=\"_blank\">this</a> material can be a runny form of concrete or cement",
+        "clue_text": "A mix of solid particles & liquid, this material can be a runny form of concrete or cement",
+        "correct_response": "slurry",
+        "media": [
+            "http://localhost:3000/media/2019-02-14_J_22.jpg"
+        ]
+    },
+    "clue_J_6_5": {
+        "id": "359704",
+        "clue_html": "This name for the waiter&apos;s tool seen <a href=\"http://www.j-archive.com/media/2019-02-14_J_28.jpg\" target=\"_blank\">here</a> rhymes with &quot;summer&quot;",
+        "clue_text": "This name for the waiter's tool seen here rhymes with \"summer\"",
+        "correct_response": "a crumber",
+        "media": [
+            "http://localhost:3000/media/2019-02-14_J_28.jpg"
+        ]
+    },
+    "category_DJ_1": {
+        "category_name": "THIS IS 40: LITERARY EDITION",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_2": {
+        "category_name": "13-LETTER WORDS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_3": {
+        "category_name": "SPACE SCIENCE HISTORY",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_4": {
+        "category_name": "KIND-OF-PERSON MAGAZINE",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_5": {
+        "category_name": "HISTORIC SUPREME COURT CASES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_DJ_6": {
+        "category_name": "TV REBOOTED",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_DJ_1_1": {
+        "id": "359705",
+        "clue_html": "Now in their 40s, this title trio returns to fight for justice in Dumas&apos; &quot;Twenty Years After&quot;",
+        "clue_text": "Now in their 40s, this title trio returns to fight for justice in Dumas' \"Twenty Years After\"",
+        "correct_response": "the Three Musketeers"
+    },
+    "clue_DJ_2_1": {
+        "id": "359710",
+        "clue_html": "It&apos;s a fancy word for rain, snow or sleet",
+        "clue_text": "It's a fancy word for rain, snow or sleet",
+        "correct_response": "precipitation"
+    },
+    "clue_DJ_3_1": {
+        "id": "359715",
+        "clue_html": "It was the first nation to land a spacecraft on the Moon, the Luna 2",
+        "clue_text": "It was the first nation to land a spacecraft on the Moon, the Luna 2",
+        "correct_response": "the U.S.S.R."
+    },
+    "clue_DJ_4_1": {
+        "id": "359720",
+        "clue_html": "Master the toms &amp; cymbals &amp; you could be on the cover of modern this, like Stewart Copeland &amp; Tre Cool",
+        "clue_text": "Master the toms & cymbals & you could be on the cover of modern this, like Stewart Copeland & Tre Cool",
+        "correct_response": "Drummer"
+    },
+    "clue_DJ_5_1": {
+        "id": "359725",
+        "clue_html": "In 1963&apos;s Gideon v. Wainwright, the Court said indigent defendants have a right to this guaranteed by the 6th Amendment",
+        "clue_text": "In 1963's Gideon v. Wainwright, the Court said indigent defendants have a right to this guaranteed by the 6th Amendment",
+        "correct_response": "representation (or legal counsel)"
+    },
+    "clue_DJ_6_1": {
+        "id": "359730",
+        "clue_html": "When this fashion-aiding program was rebooted, &quot;For the Straight Guy&quot; was left off the title",
+        "clue_text": "When this fashion-aiding program was rebooted, \"For the Straight Guy\" was left off the title",
+        "correct_response": "Queer Eye"
+    },
+    "clue_DJ_1_2": {
+        "id": "359706",
+        "clue_html": "Paris-based Pamela Druckerman&apos;s memoir of turning 40 says waiters stopped calling her &quot;mademoiselle&quot; &amp; switched to this",
+        "clue_text": "Paris-based Pamela Druckerman's memoir of turning 40 says waiters stopped calling her \"mademoiselle\" & switched to this",
+        "correct_response": "madame"
+    },
+    "clue_DJ_2_2": {
+        "id": "359711",
+        "clue_html": "One-word job description of a broadcasting preacher, such as Oral Roberts",
+        "clue_text": "One-word job description of a broadcasting preacher, such as Oral Roberts",
+        "correct_response": "televangelist"
+    },
+    "clue_DJ_3_2": {
+        "id": "359716",
+        "clue_html": "Part of NASA&apos;s first group of women astronauts, Dr. Rhea Seddon flew 3 times in space aboard this",
+        "clue_text": "Part of NASA's first group of women astronauts, Dr. Rhea Seddon flew 3 times in space aboard this",
+        "correct_response": "the space shuttle"
+    },
+    "clue_DJ_4_2": {
+        "id": "359721",
+        "triple_stumper": true,
+        "clue_html": "It follows &quot;National Geographic&quot; in the name of a mag with a &quot;Where to Go in 2018&quot; issue",
+        "clue_text": "It follows \"National Geographic\" in the name of a mag with a \"Where to Go in 2018\" issue",
+        "correct_response": "Traveler"
+    },
+    "clue_DJ_5_2": {
+        "id": "359726",
+        "clue_html": "Korematsu v. U.S. in 1944 saw the Court uphold the use of these, such as Heart Mountain, &quot;to prevent espionage&quot;",
+        "clue_text": "Korematsu v. U.S. in 1944 saw the Court uphold the use of these, such as Heart Mountain, \"to prevent espionage\"",
+        "correct_response": "internment camps"
+    },
+    "clue_DJ_6_2": {
+        "id": "359731",
+        "clue_html": "In a 2018 reboot this Candice Bergen character has Corky &amp; Miles back, plus her grown-up son Avery",
+        "clue_text": "In a 2018 reboot this Candice Bergen character has Corky & Miles back, plus her grown-up son Avery",
+        "correct_response": "Murphy Brown"
+    },
+    "clue_DJ_1_3": {
+        "id": "359707",
+        "clue_html": "In an acclaimed 2018 novel by Sheila Heti, a woman closing in on 40 struggles with this basic life decision",
+        "clue_text": "In an acclaimed 2018 novel by Sheila Heti, a woman closing in on 40 struggles with this basic life decision",
+        "correct_response": "to have children"
+    },
+    "clue_DJ_2_3": {
+        "id": "359712",
+        "triple_stumper": true,
+        "clue_html": "A place to total up your money; &quot;the king was&quot; there in &quot;Sing A Song Of Sixpence&quot;",
+        "clue_text": "A place to total up your money; \"the king was\" there in \"Sing A Song Of Sixpence\"",
+        "correct_response": "the countinghouse"
+    },
+    "clue_DJ_3_3": {
+        "id": "359717",
+        "clue_html": "Cooper-Conrad &amp; Armstrong-Scott were pairs in this 1960s NASA program",
+        "clue_text": "Cooper-Conrad & Armstrong-Scott were pairs in this 1960s NASA program",
+        "correct_response": "Gemini"
+    },
+    "clue_DJ_4_3": {
+        "id": "359722",
+        "daily_double": true,
+        "clue_html": "A coin collector is likely to also be a collector of this magazine dating back to 1888",
+        "clue_text": "A coin collector is likely to also be a collector of this magazine dating back to 1888",
+        "correct_response": "Numismatist"
+    },
+    "clue_DJ_5_3": {
+        "id": "359727",
+        "clue_html": "John Quincy Adams won the freedom of members of Africa&apos;s Mendi people when he argued their case in U.S. v. this Spanish slave ship",
+        "clue_text": "John Quincy Adams won the freedom of members of Africa's Mendi people when he argued their case in U.S. v. this Spanish slave ship",
+        "correct_response": "Amistad"
+    },
+    "clue_DJ_6_3": {
+        "id": "359732",
+        "triple_stumper": true,
+        "clue_html": "Michael Strahan hosts this rebooted game show",
+        "clue_text": "Michael Strahan hosts this rebooted game show",
+        "correct_response": "The $100,000 Pyramid"
+    },
+    "clue_DJ_1_4": {
+        "id": "359708",
+        "clue_html": "Mrs. Wu turns 40 &amp; changes her life in &quot;Pavilion of Women&quot;, a China-set 1946 book by this American woman",
+        "clue_text": "Mrs. Wu turns 40 & changes her life in \"Pavilion of Women\", a China-set 1946 book by this American woman",
+        "correct_response": "Pearl Buck"
+    },
+    "clue_DJ_2_4": {
+        "id": "359713",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-14_DJ_27.jpg\" target=\"_blank\">It</a>&apos;s named for its composition of smaller bits of wood",
+        "clue_text": "It's named for its composition of smaller bits of wood",
+        "correct_response": "particleboard",
+        "media": [
+            "http://localhost:3000/media/2019-02-14_DJ_27.jpg"
+        ]
+    },
+    "clue_DJ_3_4": {
+        "id": "359718",
+        "clue_html": "The first major mission of this agency formed by Belgium, Spain &amp; 8 other members monitored gamma rays",
+        "clue_text": "The first major mission of this agency formed by Belgium, Spain & 8 other members monitored gamma rays",
+        "correct_response": "the European Space Agency"
+    },
+    "clue_DJ_4_4": {
+        "id": "359723",
+        "clue_html": "A 1962 conversation Alex Haley had with Miles Davis became the first of this magazine&apos;s famous interviews",
+        "clue_text": "A 1962 conversation Alex Haley had with Miles Davis became the first of this magazine's famous interviews",
+        "correct_response": "Playboy"
+    },
+    "clue_DJ_5_4": {
+        "id": "359728",
+        "clue_html": "In 1998&apos;s Clinton v. City of New York, the Court nixed this kind of veto because it gave the president too much power",
+        "clue_text": "In 1998's Clinton v. City of New York, the Court nixed this kind of veto because it gave the president too much power",
+        "correct_response": "a line-item veto"
+    },
+    "clue_DJ_6_4": {
+        "id": "359733",
+        "clue_html": "The 2019 reboot of this alien drama has added &quot;, New Mexico&quot; to the title",
+        "clue_text": "The 2019 reboot of this alien drama has added \", New Mexico\" to the title",
+        "correct_response": "Roswell"
+    },
+    "clue_DJ_1_5": {
+        "id": "359709",
+        "triple_stumper": true,
+        "clue_html": "Many Anne Tyler characters are restless in this city; 40-year-old Delia in &quot;Ladder of Years&quot; gets out",
+        "clue_text": "Many Anne Tyler characters are restless in this city; 40-year-old Delia in \"Ladder of Years\" gets out",
+        "correct_response": "Baltimore"
+    },
+    "clue_DJ_2_5": {
+        "id": "359714",
+        "daily_double": true,
+        "clue_html": "Grandstanding verbally &amp; dogmatically, almost as if you were the pope",
+        "clue_text": "Grandstanding verbally & dogmatically, almost as if you were the pope",
+        "correct_response": "pontification"
+    },
+    "clue_DJ_3_5": {
+        "id": "359719",
+        "triple_stumper": true,
+        "clue_html": "In 1997 this spacecraft used airbags to land on Mars, then sent the Sojourner rover on its way",
+        "clue_text": "In 1997 this spacecraft used airbags to land on Mars, then sent the Sojourner rover on its way",
+        "correct_response": "Pathfinder"
+    },
+    "clue_DJ_4_5": {
+        "id": "359724",
+        "clue_html": "(<a href=\"http://www.j-archive.com/media/2019-02-14_DJ_13.jpg\" target=\"_blank\">Hi, I&apos;m Lori Greiner.</a>) The &quot;Shark Tank effect&quot;, boosting products from the show, has been noted by magazines like this one founded in 1977 whose title describes business risk-takers",
+        "clue_text": "(Hi, I'm Lori Greiner.) The \"Shark Tank effect\", boosting products from the show, has been noted by magazines like this one founded in 1977 whose title describes business risk-takers",
+        "correct_response": "Entrepreneur",
+        "media": [
+            "http://localhost:3000/media/2019-02-14_DJ_13.jpg"
+        ]
+    },
+    "clue_DJ_5_5": {
+        "id": "359729",
+        "clue_html": "Goss v. Lopez sided with suspended students who were deprived of an education without this 2-word safe-guard of rights",
+        "clue_text": "Goss v. Lopez sided with suspended students who were deprived of an education without this 2-word safe-guard of rights",
+        "correct_response": "due process"
+    },
+    "clue_DJ_6_5": {
+        "id": "359734",
+        "clue_html": "<a href=\"http://www.j-archive.com/media/2019-02-14_DJ_22.jpg\" target=\"_blank\">Richard Dean Anderson</a> was this problem-solving hero in the 1980s; <a href=\"http://www.j-archive.com/media/2019-02-14_DJ_22a.jpg\" target=\"_blank\">Lucas Till</a> plays hm in the reboot",
+        "clue_text": "Richard Dean Anderson was this problem-solving hero in the 1980s; Lucas Till plays hm in the reboot",
+        "correct_response": "MacGyver",
+        "media": [
+            "http://localhost:3000/media/2019-02-14_DJ_22.jpg",
+            "http://localhost:3000/media/2019-02-14_DJ_22a.jpg"
+        ]
+    },
+    "category_FJ_1": {
+        "category_name": "COLORFUL GEOGRAPHY",
+        "category_comments": ""
+    },
+    "clue_FJ": {
+        "clue_html": "Named for a soldier killed in 1846 at the start of a war, it was in the news again as a port of entry to the U.S. in 2018",
+        "clue_text": "Named for a soldier killed in 1846 at the start of a war, it was in the news again as a port of entry to the U.S. in 2018",
+        "correct_response": "Brownsville"
+    }
+}
