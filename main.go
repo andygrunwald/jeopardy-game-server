@@ -33,6 +33,11 @@ type server struct {
 }
 
 func main() {
+	addr := ":8000"
+	if v := os.Getenv("JGAME_SRV_ADDR"); len(v) > 0 {
+		addr = v
+	}
+
 	log.Println("Jeopardy Game Server ... starting ...")
 
 	// Determine the path to load the games from
@@ -71,6 +76,6 @@ func main() {
 	r.HandleFunc("/game/{gameID}", s.SeasonGameHandler).Methods("GET")
 	http.Handle("/", r)
 
-	log.Println("Jeopardy Game Server ... starting ... Done")
-	log.Fatal(http.ListenAndServe(":8000", handlers.LoggingHandler(os.Stdout, r)))
+	log.Printf("Jeopardy Game Server ... starting on %s... Done\n", addr)
+	log.Fatal(http.ListenAndServe(addr, handlers.LoggingHandler(os.Stdout, r)))
 }
