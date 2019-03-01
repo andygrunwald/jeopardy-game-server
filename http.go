@@ -32,7 +32,7 @@ func (s *server) SeasonsHandler(w http.ResponseWriter, r *http.Request) {
 	b, err := json.Marshal(seasons)
 	if err != nil {
 		w.WriteHeader(http.StatusInternalServerError)
-		fmt.Printf("error: %+v", err)
+		fmt.Fprintf(w, "error: %+v", err)
 		return
 	}
 
@@ -49,7 +49,7 @@ func (s *server) SeasonHandler(w http.ResponseWriter, r *http.Request) {
 	// Check if we have a seasonID in the request
 	if len(vars["seasonID"]) == 0 {
 		w.WriteHeader(http.StatusBadRequest)
-		fmt.Println("error: seasonID missing - usage '/season/{seasonID}'")
+		fmt.Fprintf(w, "error: seasonID missing - usage '/season/{seasonID}'")
 		return
 	}
 
@@ -86,7 +86,7 @@ func (s *server) SeasonHandler(w http.ResponseWriter, r *http.Request) {
 	b, err := json.Marshal(games)
 	if err != nil {
 		w.WriteHeader(http.StatusInternalServerError)
-		fmt.Printf("error: %+v", err)
+		fmt.Fprintf(w, "error: %+v", err)
 		return
 	}
 
@@ -102,7 +102,7 @@ func (s *server) SeasonGameHandler(w http.ResponseWriter, r *http.Request) {
 	// Check if we have a gameID in the request
 	if len(vars["gameID"]) == 0 {
 		w.WriteHeader(http.StatusBadRequest)
-		fmt.Println("error: gameID missing - usage '/game/{gameID}'")
+		fmt.Fprintf("error: gameID missing - usage '/game/{gameID}'")
 		return
 	}
 
@@ -127,5 +127,5 @@ func (s *server) SeasonGameHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	w.WriteHeader(http.StatusInternalServerError)
-	fmt.Printf("error: Key %+v not found in GameCache", p)
+	fmt.Fprintf(w, "error: key %+v not found in GameCache\n", p)
 }
