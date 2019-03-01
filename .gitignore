@@ -13,3 +13,6 @@
 
 # Compile
 jeopardy-game-server
+
+# goreleaser
+dist
