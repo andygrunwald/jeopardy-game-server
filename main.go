@@ -32,12 +32,19 @@ type server struct {
 	Cache *cache
 }
 
+var (
+	version = "dev"
+	commit  = "none"
+	date    = "unknown"
+)
+
 func main() {
 	addr := ":8000"
 	if v := os.Getenv("JGAME_SRV_ADDR"); len(v) > 0 {
 		addr = v
 	}
 
+	log.Printf("Jeopardy Game Server ... %v, commit %v, built at %v\n", version, commit, date)
 	log.Println("Jeopardy Game Server ... starting ...")
 
 	// Determine the path to load the games from
