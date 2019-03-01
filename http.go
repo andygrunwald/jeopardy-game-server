@@ -102,7 +102,7 @@ func (s *server) SeasonGameHandler(w http.ResponseWriter, r *http.Request) {
 	// Check if we have a gameID in the request
 	if len(vars["gameID"]) == 0 {
 		w.WriteHeader(http.StatusBadRequest)
-		fmt.Fprintf("error: gameID missing - usage '/game/{gameID}'")
+		fmt.Fprintf(w, "error: gameID missing - usage '/game/{gameID}'")
 		return
 	}
 

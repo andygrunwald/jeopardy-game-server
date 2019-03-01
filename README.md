@@ -2,6 +2,12 @@
 
 ## Usage
 
+### Start
+
+```sh
+$ make run
+```
+
 ### Env vars
 
 This environment vars are available:
@@ -169,5 +175,4 @@ Just add the following into the `game.json` file:
 
 ## TODO
 
-- Dokumentation (usage, env vars)
 - goreleaser
