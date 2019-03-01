@@ -16,6 +16,14 @@ This environment vars are available:
 | ---------------- | ------------- | ----------------------------------------- |
 | JGAME_SRV_ADDR   | :8000         | IP + Port where the webserver will listen |
 
+## Shipping a new release
+
+1. Make your modifications => `hack hack hack`
+2. Create a new tag => `git tag -a v0.1.0 -m "New release" && git push origin v0.1.0`
+3. Release it => `goreleaser`
+
+For more, check out the [goreleaser](https://goreleaser.com/) docs.
+
 ## Games
 
 All games are stored in the `games/` folder.
@@ -172,7 +180,3 @@ Just add the following into the `game.json` file:
         "correct_response": "Brownsville"
     }
 ```
-
-## TODO
-
-- goreleaser
