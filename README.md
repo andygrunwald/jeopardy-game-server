@@ -1,5 +1,7 @@
 # jeopardy-game-server
 
+Question server for the [jeopardy-game](https://github.com/andygrunwald/jeopardy-game).
+
 ## Usage
 
 ### Start
