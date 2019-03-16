@@ -1,0 +1,237 @@
+{
+    "id": "trivago-tech-get-together-march-2019/game-1",
+    "game_title": "trivago TGT 03/2019 - Game #1 - Tuesday, March 19, 2019",
+    "game_comments": "",
+    "game_complete": false,
+    "category_J_1": {
+        "category_name": "TRIVAGO OFFICES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_2": {
+        "category_name": "HELLO WORLD",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_3": {
+        "category_name": "ACRONYM",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_4": {
+        "category_name": "PORTS",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_5": {
+        "category_name": "PROGRAMMER FOLKLORE",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "category_J_6": {
+        "category_name": "HACKER MOVIES",
+        "category_comments": "",
+        "clue_count": 5
+    },
+    "clue_J_1_1": {
+        "id": "20190319211",
+        "clue_html": "",
+        "clue_text": "",
+        "correct_response": "Campus Düsseldorf",
+        "media": [
+            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-campus-reception.jpg"
+        ]
+    },
+    "clue_J_2_1": {
+        "id": "20190319221",
+        "clue_html": "10 PRINT 'Hello World!'",
+        "clue_text": "10 PRINT 'Hello World!'",
+        "correct_response": "BASIC"
+    },
+    "clue_J_3_1": {
+        "id": "20190319231",
+        "clue_html": "GNU",
+        "clue_text": "GNU",
+        "correct_response": "GNU is Not Unix"
+    },
+    "clue_J_4_1": {
+        "id": "20190319241",
+        "clue_html": "80",
+        "clue_text": "80",
+        "correct_response": "HTTP"
+    },
+    "clue_J_5_1": {
+        "id": "20190319251",
+        "clue_html": "This term is commonly used by programmers who quickly need a placeholder variable name.",
+        "clue_text": "This term is commonly used by programmers who quickly need a placeholder variable name.",
+        "correct_response": "foo or bar"
+    },
+    "clue_J_6_1": {
+        "id": "20190319261",
+        "clue_html": "TODO Hacker Movie #1",
+        "clue_text": "TODO Hacker Movie #1",
+        "correct_response": "TODO Hacker Movie #1",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4"
+    },
+    "clue_J_1_2": {
+        "id": "20190319212",
+        "clue_html": "",
+        "clue_text": "",
+        "correct_response": "Palma de Mallorca",
+        "media": [
+            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-palma-reception.jpg"
+        ]
+    },
+    "clue_J_2_2": {
+        "id": "20190319222",
+        "clue_html": "System.out.println('Hello, World!');",
+        "clue_text": "System.out.println('Hello, World!');",
+        "correct_response": "Java"
+    },
+    "clue_J_3_2": {
+        "id": "20190319232",
+        "clue_html": "WINE",
+        "clue_text": "WINE",
+        "correct_response": "Wine Is Not an Emulator"
+    },
+    "clue_J_4_2": {
+        "id": "20190319242",
+        "clue_html": "22",
+        "clue_text": "22",
+        "correct_response": "SSH"
+    },
+    "clue_J_5_2": {
+        "id": "20190319252",
+        "clue_html": "This term that describes defects has been a part of engineering jargon since the 1870s and predates electronic computers and computer software; it may have originally been used in hardware engineering to describe mechanical malfunctions.",
+        "clue_text": "This term that describes defects has been a part of engineering jargon since the 1870s and predates electronic computers and computer software; it may have originally been used in hardware engineering to describe mechanical malfunctions.",
+        "correct_response": "bug"
+    },
+    "clue_J_6_2": {
+        "id": "20190319262",
+        "clue_html": "TODO Hacker Movie #2",
+        "clue_text": "TODO Hacker Movie #2",
+        "correct_response": "TODO Hacker Movie #2",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4"
+    },
+    "clue_J_1_3": {
+        "id": "20190319213",
+        "clue_html": "",
+        "clue_text": "",
+        "correct_response": "Leipzig",
+        "media": [
+            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-leipzig-reception.jpg"
+        ]
+    },
+    "clue_J_2_3": {
+        "id": "20190319223",
+        "clue_html": "TALK TO THE HAND &quot;Hello world!&quot;",
+        "clue_text": "TALK TO THE HAND \"Hello world!\"",
+        "correct_response": "Arnold C"
+    },
+    "clue_J_3_3": {
+        "id": "20190319233",
+        "clue_html": "PHP",
+        "clue_text": "PHP",
+        "correct_response": "PHP: Hypertext Preprocessor"
+    },
+    "clue_J_4_3": {
+        "id": "20190319243",
+        "clue_html": "143",
+        "clue_text": "143",
+        "correct_response": "IMAP"
+    },
+    "clue_J_5_3": {
+        "id": "20190319253",
+        "clue_html": "Ascher Opler coined this term in a 1967 Datamation article. As originally used, it existed on the boundary between hardware and software.",
+        "clue_text": "Ascher Opler coined this term in a 1967 Datamation article. As originally used, it existed on the boundary between hardware and software.",
+        "correct_response": "Firmware"
+    },
+    "clue_J_6_3": {
+        "id": "20190319263",
+        "clue_html": "TODO Hacker Movie #3",
+        "clue_text": "TODO Hacker Movie #3",
+        "correct_response": "TODO Hacker Movie #3",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4"
+    },
+    "clue_J_1_4": {
+        "id": "20190319214",
+        "clue_html": "",
+        "clue_text": "",
+        "correct_response": "Amsterdam",
+        "media": [
+            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-amsterdam-entrance.jpg"
+        ]
+    },
+    "clue_J_2_4": {
+        "id": "20190319224",
+        "clue_html": "NSLog(@'Hello, World!');",
+        "clue_text": "NSLog(@'Hello, World!');",
+        "correct_response": "Objective C"
+    },
+    "clue_J_3_4": {
+        "id": "20190319234",
+        "clue_html": "PIP",
+        "clue_text": "PIP",
+        "correct_response": "PIP Installs Packages"
+    },
+    "clue_J_4_4": {
+        "id": "20190319244",
+        "clue_html": "23",
+        "clue_text": "23",
+        "correct_response": "telnet"
+    },
+    "clue_J_5_4": {
+        "id": "20190319254",
+        "clue_html": "This term originally referred to the rolled steel used to make water boilers but is used in the media to refer to hackneyed or unoriginal writing. The term refers to the metal printing plates of pre-prepared text such as advertisements or syndicated columns that were distributed to small, local newspapers.",
+        "clue_text": "This term originally referred to the rolled steel used to make water boilers but is used in the media to refer to hackneyed or unoriginal writing. The term refers to the metal printing plates of pre-prepared text such as advertisements or syndicated columns that were distributed to small, local newspapers.",
+        "correct_response": "boilerplate"
+    },
+    "clue_J_6_4": {
+        "id": "20190319264",
+        "clue_html": "TODO Hacker Movie #4",
+        "clue_text": "TODO Hacker Movie #4",
+        "correct_response": "TODO Hacker Movie #4",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4"
+    },
+    "clue_J_1_5": {
+        "id": "20190319215",
+        "clue_html": "",
+        "clue_text": "",
+        "correct_response": "Kaiserswerther Straße",
+        "media": [
+            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-kaiserswertherstr-reception.png"
+        ]
+    },
+    "clue_J_2_5": {
+        "id": "20190319225",
+        "daily_double": true,
+        "clue_html": ".&quot; Hello world!&quot;",
+        "clue_text": ".\" Hello world!\"",
+        "correct_response": "Forth"
+    },
+    "clue_J_3_5": {
+        "id": "20190319235",
+        "clue_html": "Nagios",
+        "clue_text": "Nagios",
+        "correct_response": "Nagios Ain't Gonna Insist On Sainthood"
+    },
+    "clue_J_4_5": {
+        "id": "20190319245",
+        "clue_html": "3306 or 25565",
+        "clue_text": "3306 or 25565",
+        "correct_response": "MySQL"
+    },
+    "clue_J_5_5": {
+        "id": "20190319255",
+        "clue_html": "This cloverleaf-like symbol, commonly used in Nordic countries as an indicator of cultural locations and places of interest became the symbol of the 1984 Macintosh command key.",
+        "clue_text": "This cloverleaf-like symbol, commonly used in Nordic countries as an indicator of cultural locations and places of interest became the symbol of the 1984 Macintosh command key.",
+        "correct_response": "⌘"
+    },
+    "clue_J_6_5": {
+        "id": "20190319265",
+        "clue_html": "TODO Hacker Movie #5",
+        "clue_text": "TODO Hacker Movie #5",
+        "correct_response": "TODO Hacker Movie #5",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4" 
+    }
+}
