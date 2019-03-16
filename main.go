@@ -78,11 +78,19 @@ func main() {
 	}
 
 	r := mux.NewRouter()
+
 	r.HandleFunc("/seasons", s.SeasonsHandler).Methods("GET")
 	r.HandleFunc("/season/{seasonID}", s.SeasonHandler).Methods("GET")
 	r.HandleFunc("/game/{gameID}", s.SeasonGameHandler).Methods("GET")
+
+	// Static file server
+	fs := http.FileServer(http.Dir("games"))
+	r.PathPrefix("/").Handler(fs)
+
 	http.Handle("/", r)
 
 	log.Printf("Jeopardy Game Server ... starting on %s... Done\n", addr)
-	log.Fatal(http.ListenAndServe(addr, handlers.LoggingHandler(os.Stdout, r)))
+	if err := http.ListenAndServe(addr, handlers.LoggingHandler(os.Stdout, r)); err != nil {
+		log.Fatal("ListenAndServe: ", err)
+	}
 }
