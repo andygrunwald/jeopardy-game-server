@@ -208,3 +208,15 @@ Just add the following into the `game.json` file:
     ]
   },
 ```
+
+### Question with Video support
+
+```json
+  "clue_J_1_5": {
+    "id": "20190319115",
+    "clue_html": "",
+    "clue_text": "",
+    "correct_response": "Johannes Thomas",
+    "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/funny-video.mp4"
+  },
+```
