@@ -182,3 +182,29 @@ Just add the following into the `game.json` file:
         "correct_response": "Brownsville"
     }
 ```
+
+#### Question with Audio support
+
+```json
+  "clue_J_6_5": {
+    "id": "20190319165",
+    "clue_html": "",
+    "clue_text": "",
+    "correct_response": "Valve Theme (Half-Life / Counter Strike)",
+    "audio": "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Valve-Theme-Hazardous-Environments.mp3"
+  }
+```
+
+#### Question with Image support
+
+```json
+  "clue_J_1_5": {
+    "id": "20190319115",
+    "clue_html": "",
+    "clue_text": "",
+    "correct_response": "Johannes Thomas",
+    "media": [
+      "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Johannes-Thomas-Older.jpg"
+    ]
+  },
+```
