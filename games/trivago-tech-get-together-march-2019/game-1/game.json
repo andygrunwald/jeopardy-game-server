@@ -164,8 +164,8 @@
     },
     "clue_J_2_4": {
         "id": "20190319124",
-        "clue_html": "DISPLAY 'HELLO, WORLD!",
-        "clue_text": "DISPLAY 'HELLO, WORLD!",
+        "clue_html": "DISPLAY 'HELLO, WORLD!'",
+        "clue_text": "DISPLAY 'HELLO, WORLD!'",
         "correct_response": "COBOL"
     },
     "clue_J_3_4": {
