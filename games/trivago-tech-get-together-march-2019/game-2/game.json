@@ -68,10 +68,10 @@
     },
     "clue_J_6_1": {
         "id": "20190319261",
-        "clue_html": "TODO Hacker Movie #1",
-        "clue_text": "TODO Hacker Movie #1",
-        "correct_response": "TODO Hacker Movie #1",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4"
+        "clue_html": "Watch",
+        "clue_text": "Watch",
+        "correct_response": "Jurassic Park",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/jurassic.mp4"
     },
     "clue_J_1_2": {
         "id": "20190319212",
@@ -108,10 +108,10 @@
     },
     "clue_J_6_2": {
         "id": "20190319262",
-        "clue_html": "TODO Hacker Movie #2",
-        "clue_text": "TODO Hacker Movie #2",
-        "correct_response": "TODO Hacker Movie #2",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4"
+        "clue_html": "Watch",
+        "clue_text": "Watch",
+        "correct_response": "Password Swordfish",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/swordfish.mp4"
     },
     "clue_J_1_3": {
         "id": "20190319213",
@@ -148,10 +148,10 @@
     },
     "clue_J_6_3": {
         "id": "20190319263",
-        "clue_html": "TODO Hacker Movie #3",
-        "clue_text": "TODO Hacker Movie #3",
-        "correct_response": "TODO Hacker Movie #3",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4"
+        "clue_html": "Watch",
+        "clue_text": "Watch",
+        "correct_response": "Hackers",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/hackers.mp4"
     },
     "clue_J_1_4": {
         "id": "20190319214",
@@ -188,10 +188,10 @@
     },
     "clue_J_6_4": {
         "id": "20190319264",
-        "clue_html": "TODO Hacker Movie #4",
-        "clue_text": "TODO Hacker Movie #4",
-        "correct_response": "TODO Hacker Movie #4",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4"
+        "clue_html": "Watch",
+        "clue_text": "Watch",
+        "correct_response": "007 - Goldeneye",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/goldeneye.mp4"
     },
     "clue_J_1_5": {
         "id": "20190319215",
@@ -229,9 +229,9 @@
     },
     "clue_J_6_5": {
         "id": "20190319265",
-        "clue_html": "TODO Hacker Movie #5",
-        "clue_text": "TODO Hacker Movie #5",
-        "correct_response": "TODO Hacker Movie #5",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/funny-video.mp4" 
+        "clue_html": "Watch",
+        "clue_text": "Watch",
+        "correct_response": "Firewall",
+        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/firewall.mp4" 
     }
 }
