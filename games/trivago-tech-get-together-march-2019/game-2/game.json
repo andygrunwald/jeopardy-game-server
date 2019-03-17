@@ -39,7 +39,7 @@
         "clue_text": "",
         "correct_response": "Campus Düsseldorf",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-campus-reception.jpg"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/office-campus-reception.jpg"
         ]
     },
     "clue_J_2_1": {
@@ -71,7 +71,7 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "Jurassic Park",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/jurassic.mp4"
+        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/jurassic.mp4"
     },
     "clue_J_1_2": {
         "id": "20190319212",
@@ -79,7 +79,7 @@
         "clue_text": "",
         "correct_response": "Palma de Mallorca",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-palma-reception.jpg"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/office-palma-reception.jpg"
         ]
     },
     "clue_J_2_2": {
@@ -111,7 +111,7 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "Password Swordfish",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/swordfish.mp4"
+        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/swordfish.mp4"
     },
     "clue_J_1_3": {
         "id": "20190319213",
@@ -119,7 +119,7 @@
         "clue_text": "",
         "correct_response": "Leipzig",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-leipzig-reception.jpg"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/office-leipzig-reception.jpg"
         ]
     },
     "clue_J_2_3": {
@@ -151,7 +151,7 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "Hackers",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/hackers.mp4"
+        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/hackers.mp4"
     },
     "clue_J_1_4": {
         "id": "20190319214",
@@ -159,7 +159,7 @@
         "clue_text": "",
         "correct_response": "Amsterdam",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-amsterdam-entrance.jpg"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/office-amsterdam-entrance.jpg"
         ]
     },
     "clue_J_2_4": {
@@ -191,7 +191,7 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "007 - Goldeneye",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/goldeneye.mp4"
+        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/goldeneye.mp4"
     },
     "clue_J_1_5": {
         "id": "20190319215",
@@ -199,7 +199,7 @@
         "clue_text": "",
         "correct_response": "Kaiserswerther Straße",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/office-kaiserswertherstr-reception.png"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/office-kaiserswertherstr-reception.png"
         ]
     },
     "clue_J_2_5": {
@@ -232,6 +232,6 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "Firewall",
-        "video": "http://localhost:8000/trivago-tech-get-together-march-2019/game-2/files/firewall.mp4" 
+        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/firewall.mp4" 
     }
 }

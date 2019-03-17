@@ -39,7 +39,7 @@
         "clue_text": "",
         "correct_response": "trivi",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/trivi.jpg"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/trivi.jpg"
         ]
     },
     "clue_J_2_1": {
@@ -71,7 +71,7 @@
         "clue_html": "",
         "clue_text": "",
         "correct_response": "Tetris",
-        "audio": "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Tetris-A-Type-Music.mp3"
+        "audio": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/Tetris-A-Type-Music.mp3"
     },
     "clue_J_1_2": {
         "id": "20190319112",
@@ -79,7 +79,7 @@
         "clue_text": "",
         "correct_response": "Andrej Lehnert",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Andrej-Lehnert.jpg"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/Andrej-Lehnert.jpg"
         ]
     },
     "clue_J_2_2": {
@@ -111,7 +111,7 @@
         "clue_html": "",
         "clue_text": "",
         "correct_response": "Super Mario World",
-        "audio": "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Super-Mario-World.mp3"
+        "audio": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/Super-Mario-World.mp3"
     },
     "clue_J_1_3": {
         "id": "20190319113",
@@ -119,7 +119,7 @@
         "clue_text": "",
         "correct_response": "Anna Drüing",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Anna-Drueing.jpg"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/Anna-Drueing.jpg"
         ]
     },
     "clue_J_2_3": {
@@ -151,7 +151,7 @@
         "clue_html": "",
         "clue_text": "",
         "correct_response": "Pac Man (Arcade)",
-        "audio": "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Pac-Man-Arcade.mp3"
+        "audio": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/Pac-Man-Arcade.mp3"
     },
     "clue_J_1_4": {
         "id": "20190319114",
@@ -159,7 +159,7 @@
         "clue_text": "",
         "correct_response": "Rolf Schroemgens",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Rolf-Schroemgens.jpeg"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/Rolf-Schroemgens.jpeg"
         ]
     },
     "clue_J_2_4": {
@@ -191,7 +191,7 @@
         "clue_html": "",
         "clue_text": "",
         "correct_response": "Crash Bandicoot",
-        "audio": "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Crash-Bandicoot-PS1.mp3"
+        "audio": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/Crash-Bandicoot-PS1.mp3"
     },
     "clue_J_1_5": {
         "id": "20190319115",
@@ -199,7 +199,7 @@
         "clue_text": "",
         "correct_response": "Johannes Thomas",
         "media": [
-            "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Johannes-Thomas-Older.jpg"
+            "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/Johannes-Thomas-Older.jpg"
         ]
     },
     "clue_J_2_5": {
@@ -232,6 +232,6 @@
         "clue_html": "",
         "clue_text": "",
         "correct_response": "Valve Theme (Half-Life / Counter Strike)",
-        "audio": "http://localhost:8000/trivago-tech-get-together-march-2019/game-1/files/Valve-Theme-Hazardous-Environments.mp3"      
+        "audio": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-1/files/Valve-Theme-Hazardous-Environments.mp3"      
     }
 }
