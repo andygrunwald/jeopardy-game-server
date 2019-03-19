@@ -86,6 +86,7 @@
         "id": "20190319122",
         "clue_html": "puts 'Hello, World!'",
         "clue_text": "puts 'Hello, World!'",
+        "daily_double": true,
         "correct_response": "Ruby or TCL"
     },
     "clue_J_3_2": {
@@ -177,13 +178,14 @@
     "clue_J_4_4": {
         "id": "20190319144",
         "clue_html": "418",
+        "daily_double": true,
         "clue_text": "418",
         "correct_response": "Teapot"
     },
     "clue_J_5_4": {
         "id": "20190319154",
-        "clue_html": "%::",
-        "clue_text": "%::",
+        "clue_html": "%˸˸",
+        "clue_text": "%˸˸",
         "correct_response": "the symbol table"
     },
     "clue_J_6_4": {
@@ -204,7 +206,6 @@
     },
     "clue_J_2_5": {
         "id": "20190319125",
-        "daily_double": true,
         "clue_html": "h",
         "clue_text": "h",
         "correct_response": "Hello"
