@@ -71,7 +71,7 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "Jurassic Park",
-        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/jurassic.mp4"
+        "video": "http://192.168.4.19:8000/trivago-tech-get-together-march-2019/game-2/files/jurassic.mp4"
     },
     "clue_J_1_2": {
         "id": "20190319212",
@@ -111,7 +111,7 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "Password Swordfish",
-        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/swordfish.mp4"
+        "video": "http://192.168.4.19:8000/trivago-tech-get-together-march-2019/game-2/files/swordfish.mp4"
     },
     "clue_J_1_3": {
         "id": "20190319213",
@@ -151,7 +151,7 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "Hackers",
-        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/hackers.mp4"
+        "video": "http://192.168.4.19:8000/trivago-tech-get-together-march-2019/game-2/files/hackers.mp4"
     },
     "clue_J_1_4": {
         "id": "20190319214",
@@ -191,7 +191,7 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "007 - Goldeneye",
-        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/goldeneye.mp4"
+        "video": "http://192.168.4.19:8000/trivago-tech-get-together-march-2019/game-2/files/goldeneye.mp4"
     },
     "clue_J_1_5": {
         "id": "20190319215",
@@ -232,6 +232,6 @@
         "clue_html": "Watch",
         "clue_text": "Watch",
         "correct_response": "Firewall",
-        "video": "http://192.168.4.1:8000/trivago-tech-get-together-march-2019/game-2/files/firewall.mp4"
+        "video": "http://192.168.4.19:8000/trivago-tech-get-together-march-2019/game-2/files/firewall.mp4"
     }
 }
